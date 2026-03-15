@@ -70,7 +70,7 @@ export const MetodoCard = ({ metodo, onClick }: MetodoCardProps) => {
       {/* Equipe Necessária */}
       {metodo.equipeNecessaria && (
         <div className="mb-4 text-sm text-gray-700 line-clamp-2">
-          <span className="font-semibold text-gray-900">Equipe: </span>
+          <span className="font-semibold text-gray-900">Habilidades: </span>
           {metodo.equipeNecessaria.substring(0, 100)}
           {metodo.equipeNecessaria.length > 100 && '...'}
         </div>
