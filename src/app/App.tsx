@@ -7,15 +7,16 @@ import { Metodo } from './data/metodos';
 import { Search, BookOpen, AlertCircle } from 'lucide-react';
 
 export default function App() {
-  const { 
-    metodos, 
-    error, 
+  const {
+    metodos,
+    error,
     getPassosByMetodo,
     loadFichaTecnica,
     loadPassosAplicacao,
     fichaTecnicaLoaded,
-    passosLoaded
+    passosLoaded,
   } = useMetodos();
+
   const [selectedMetodo, setSelectedMetodo] = useState<Metodo | null>(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedFamilia, setSelectedFamilia] = useState<string>('todas');
@@ -23,26 +24,35 @@ export default function App() {
   // Extrair todas as famílias únicas
   const familias = useMemo(() => {
     const allFamilias = new Set<string>();
-    metodos.forEach(m => {
+
+    metodos.forEach((m) => {
       if (m.familia) {
-        m.familia.split(',').forEach(f => allFamilias.add(f.trim()));
+        m.familia.split(',').forEach((f) => allFamilias.add(f.trim()));
       }
     });
+
     return Array.from(allFamilias).sort();
   }, [metodos]);
 
   // Filtrar métodos
   const filteredMetodos = useMemo(() => {
-    return metodos.filter(metodo => {
-      const matchSearch = 
-        metodo.nome.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        metodo.descricao.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        metodo.objetivo.toLowerCase().includes(searchTerm.toLowerCase());
-      
-      const matchFamilia = 
-        selectedFamilia === 'todas' || 
-        metodo.familia.toLowerCase().includes(selectedFamilia.toLowerCase());
-      
+    const normalizedSearch = searchTerm.toLowerCase();
+
+    return metodos.filter((metodo) => {
+      const nome = metodo.nome?.toLowerCase() || '';
+      const descricao = metodo.descricao?.toLowerCase() || '';
+      const objetivo = metodo.objetivo?.toLowerCase() || '';
+      const familia = metodo.familia?.toLowerCase() || '';
+
+      const matchSearch =
+        nome.includes(normalizedSearch) ||
+        descricao.includes(normalizedSearch) ||
+        objetivo.includes(normalizedSearch);
+
+      const matchFamilia =
+        selectedFamilia === 'todas' ||
+        familia.includes(selectedFamilia.toLowerCase());
+
       return matchSearch && matchFamilia;
     });
   }, [metodos, searchTerm, selectedFamilia]);
@@ -74,7 +84,10 @@ export default function App() {
                 Repositório de Métodos de Escuta Cidadã
               </h1>
               <p className="text-sm text-gray-600 mt-1">
-                Arca Envolvimento Social • {fichaTecnicaLoaded ? `${metodos.length} métodos disponíveis` : 'carregue os CSVs para começar'}
+                Arca Envolvimento Social •{' '}
+                {fichaTecnicaLoaded
+                  ? `${metodos.length} métodos disponíveis`
+                  : 'carregue os CSVs para começar'}
               </p>
             </div>
           </div>
@@ -103,14 +116,14 @@ export default function App() {
               value={selectedFamilia}
               onChange={(e) => setSelectedFamilia(e.target.value)}
               disabled={!fichaTecnicaLoaded}
-              className={`px-4 py-2 border border-gray-300 rounded-lg outline-none bg-white ${
+              className={`px-4 py-2 border border-gray-300 rounded-lg outline-none ${
                 fichaTecnicaLoaded
-                  ? 'focus:ring-2 focus:ring-blue-500 focus:border-transparent'
+                  ? 'bg-white focus:ring-2 focus:ring-blue-500 focus:border-transparent'
                   : 'bg-gray-100 text-gray-400 cursor-not-allowed'
               }`}
             >
               <option value="todas">Todas as famílias</option>
-              {familias.map(familia => (
+              {familias.map((familia) => (
                 <option key={familia} value={familia}>
                   {familia}
                 </option>
@@ -121,7 +134,9 @@ export default function App() {
           {/* Contador de resultados */}
           <div className="mt-4 text-sm text-gray-600">
             {!fichaTecnicaLoaded ? (
-              <span>Faça upload do CSV de Ficha Técnica para habilitar a listagem e os filtros.</span>
+              <span>
+                Faça upload do CSV de Ficha Técnica para habilitar a listagem e os filtros.
+              </span>
             ) : filteredMetodos.length === metodos.length ? (
               <span>Mostrando todos os {metodos.length} métodos</span>
             ) : (
@@ -135,7 +150,6 @@ export default function App() {
 
       {/* Galeria de Cards */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* CSV Uploader */}
         <CSVUploader
           onFichaTecnicaLoad={loadFichaTecnica}
           onPassosLoad={loadPassosAplicacao}
@@ -143,23 +157,25 @@ export default function App() {
           passosLoaded={passosLoaded}
         />
 
-        {/* Aviso quando ainda não há dados */}
         {!fichaTecnicaLoaded && (
           <div className="bg-white border border-blue-200 rounded-lg p-6 mb-8">
             <div className="flex items-start gap-3">
               <AlertCircle className="w-5 h-5 text-blue-600 mt-0.5" />
               <div>
-                <h3 className="font-semibold text-gray-900">Nenhum método carregado ainda</h3>
+                <h3 className="font-semibold text-gray-900">
+                  Nenhum método carregado ainda
+                </h3>
                 <p className="text-sm text-gray-600 mt-1">
-                  Para o app funcionar, carregue primeiro o CSV de <strong>Ficha Técnica</strong>. Em seguida,
-                  carregue o CSV de <strong>Passos de Aplicação</strong> para habilitar os passos no detalhe.
+                  Para o app funcionar, carregue primeiro o CSV de <strong>Ficha Técnica</strong>. Em
+                  seguida, carregue o CSV de <strong>Passos de Aplicação</strong> para habilitar os
+                  passos no detalhe.
                 </p>
               </div>
             </div>
           </div>
         )}
 
-        {(!fichaTecnicaLoaded || filteredMetodos.length === 0) ? (
+        {!fichaTecnicaLoaded || filteredMetodos.length === 0 ? (
           <div className="text-center py-16">
             <p className="text-gray-500 text-lg">
               {!fichaTecnicaLoaded
@@ -169,7 +185,7 @@ export default function App() {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredMetodos.map(metodo => (
+            {filteredMetodos.map((metodo) => (
               <MetodoCard
                 key={metodo.id}
                 metodo={metodo}
@@ -185,7 +201,9 @@ export default function App() {
         metodo={selectedMetodo}
         passos={selectedMetodo ? getPassosByMetodo(selectedMetodo.id) : []}
         open={!!selectedMetodo}
-        onOpenChange={(open) => !open && setSelectedMetodo(null)}
+        onOpenChange={(open) => {
+          if (!open) setSelectedMetodo(null);
+        }}
       />
 
       {/* Footer */}
@@ -193,7 +211,6 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <p className="text-center text-sm text-gray-500">
             Repositório de Métodos de Escuta Cidadã • Arca Envolvimento Social
-            </a>
           </p>
         </div>
       </footer>
