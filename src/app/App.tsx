@@ -192,14 +192,7 @@ export default function App() {
       <footer className="bg-white border-t border-gray-200 mt-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <p className="text-center text-sm text-gray-500">
-            Repositório de Métodos de Escuta Cidadã • Inspirado no{' '}
-            <a
-              href="https://www.hyperisland.com.br/pages/toolbox"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              HyperIsland Toolbox
+            Repositório de Métodos de Escuta Cidadã • Arca Envolvimento Social
             </a>
           </p>
         </div>
