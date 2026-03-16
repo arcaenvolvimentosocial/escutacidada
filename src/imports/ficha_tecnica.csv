@@ -1,5 +1,5 @@
 ID do Método,Nome do Método,Anexo,Etapa Design (IDEO),Tipologia (OCDE),Descrição Curta,Objetivo,Quando usar,Quando Não Usar,Público Adequado,Vantagens,Riscos e Limitações,Nível de Esforço,Habiliades Necessárias,Passos de Aplicação,Referências Bibliográficas,Tags de Conexão (P6),Tamanho do Grupo,Entregáveis,Duração,Formato,Material Adicional:,URL
-M001,Photovoice,"""ChatGPT Image Feb 5, 2026, 11_05_31 AM.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/A723xZf7AQH0X7RAWRau6Q/EWmC4K2z2jhlkwGu2gWJER0cchENynWcEJJXhjkOO6Tj722KDWqPsjEDpaIAgJ4k2Bgen-u17fpo2sCVTAZc5TyqfM0B_8xDENiRR3sbICsDrquvDxSz4RXNhZdJ7-2kj2ayPLyTnRDP-MQK-uP2KJ4GmKYOh1L7CVDXgeUMmbcHtzPsFVc49U3jZ2Dhb98W/V9l11y_Ff6mMm2zENgdyjb84GRsOGzwNe57cQwNqleY)""",Inspiração,Tipo 6: Imersão e Experiência do Usuário,"O PhotoVoice é uma metodologia participativa que utiliza imagens para acessar percepções, experiências e significados que dificilmente emergem por meio de entrevistas ou questionários.
+M001,Photovoice,"""ChatGPT Image Feb 5, 2026, 11_05_31 AM.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/_0o0w77B7VsBIpzdkNb25g/pgYDwmX1cpzIQ-2db7x_CaRuGq-Sql2gp7g6eXxkoZNezoSGSs8iYucl-9CnQoV88IeMXZiKVaCxUgGbL24huq4R2IWwMAekKKntdiqyWABMG_cl4K3_L4PX8uzlSNZTl1qMphuWVLcRVsAR9y_rhS5WrWPST5HXJjtaxwTJ6UuRh_oVSgeiWI89yIcR4PuR/WZ8fAXSwFmVXT-30N6eBrrKjyQmg6KpYxiJu54IjDzc)""",Inspiração,Tipo 6: Imersão e Experiência do Usuário,"O PhotoVoice é uma metodologia participativa que utiliza imagens para acessar percepções, experiências e significados que dificilmente emergem por meio de entrevistas ou questionários.
 
 Ao convidar participantes a produzir fotografias em resposta a uma pergunta analítica, o método permite:
 
@@ -49,22 +49,25 @@ Natureza Qualitativa
 Não produz dados generalizáveis. Complementa outros métodos.
 
 Operacional
-Exige logística, backup e organização técnica.",Médio–Alto,"Áreas/secretarias focais de auditoria (para orientar o tema e o uso do resultado).
+Exige logística, backup e organização técnica.",Médio–Alto,"Facilitação de processos participativos com cuidado de grupo
+Capacidade de conduzir dinâmicas coletivas de escuta e expressão, garantindo ambiente seguro, participação equilibrada e manejo de emoções ou conflitos.
 
-1 pessoa facilitadora experiente em métodos participativos e cuidado do grupo.
+Letramento visual e uso ético da fotografia como método de pesquisa
+Habilidade de orientar participantes no uso básico de fotografia (enquadramento, narrativa visual) e nos princípios éticos de registro de imagens em contextos sociais.
 
-1 apoio técnico de fotografia (treino de câmera, ética e armazenamento).
+Análise qualitativa e síntese de narrativas visuais
+Competência para interpretar fotografias combinadas com relatos dos participantes, identificar padrões e produzir sínteses analíticas úteis para a auditoria.
 
-1 analista para organizar os achados e produzir a síntese.
+Comunicação pública e tradução de evidências em narrativas acessíveis
+Capacidade de transformar os achados (imagens e relatos) em exposições, relatórios visuais ou devolutivas compreensíveis para gestores públicos e sociedade.
 
-1 pessoa de comunicação (quando houver ações de divulgação/devolutiva).
-
-Apoio jurídico para temas de privacidade e direito de imagem.","1,2,3,4,5,6,7,8,9,10,11","RUTGERS INTERNATIONAL. Photovoice Facilitator’s Guide. New Brunswick, NJ: Rutgers University, [s.d.].",[Em construção],5-20 pessoas,"Dados qualitativos: respostas em texto para a pergunta, acompanhadas de fotos, legendas e categorias/prioridades.
+Gestão ética e jurídica de dados e direitos de imagem
+Conhecimento para lidar com consentimento informado, proteção de identidade, uso de imagens e conformidade com normas de privacidade.","1,2,3,4,5,6,7,8,9,10,11","RUTGERS INTERNATIONAL. Photovoice Facilitator’s Guide. New Brunswick, NJ: Rutgers University, [s.d.].",[Em construção],5-20 pessoas,"Dados qualitativos: respostas em texto para a pergunta, acompanhadas de fotos, legendas e categorias/prioridades.
 
 Mensagem coletiva: um resumo com as prioridades do grupo, com exposição/devolutiva organizada para os stakeholders.Dados qualitativos: respostas em texto para a pergunta, acompanhadas de fotos, legendas e categorias/prioridades.
 
 Mensagem coletiva: um resumo com as prioridades do grupo, com exposição/devolutiva organizada para os stakeholders.",8 a 12 semanas,Híbrido,Photovoice Facilitator's guide | Rutgers International,https://rutgers.international/wp-content/uploads/2021/09/Photovoice-Facilitators-guide.pdf
-M002,Mapa Colaborativo (Crowdmapping),fa0f3d75-c084-4e71-b6c4-1c3a78723699.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/ZSnHqTQa3u0efpVvRYa_lQ/FG4iu9_a7rylMpoyWdAISL59J2vb3tTDiotFjsQII9TfAtzmozqEEQ-2Db24aY96Al4qiVqBYicAw_vHyZCZgsixfEVmWhy3Kfj34uYqJFkMl6pe45Hd0fnaqlns2qkabIzt3MUpRS5g7z0arisR98LMyRnAqkxNfaVHfg6mdyNfxFiGQLX2jNDLQ-SoL-On/Hz_ghc1KBaBfo39Xue_-vf-gzzGCDCIrwHMhiqvJVNQ),"Implementação,Inspiração","Tipo 3: Monitoramento Cívico e Ciência Cidadã,Tipo 5: Inovação Aberta e Co-criação","O Crowdmapping é um instrumento digital de mapeamento participativo para coletar e organizar contribuições georreferenciadas (ponto, rota e área), com categorias e relatos curtos.
+M002,Mapa Colaborativo (Crowdmapping),fa0f3d75-c084-4e71-b6c4-1c3a78723699.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/0wDaLHbKytdoiF-8e757zg/ndLZil9NBiHbpKJ8Q0hmIZkdzDoZkWDcm65sjQ6Jzeqr8j7Dsju-PcacDQgszL_K5W9KjpTkR-3xfHfRoKRWdXdrUE7czaCC7reNiW6q62FGTl5AEOQO2rQOV1DWKfWfitw9zmv0W8sWK8gIUrCcu0sYsyXS1ZdrxAK0q5gL7_rDDr9ubAidRM-xpthJYd22/-oA26prqUXmQjU7C0ps7H0_WaAeRJoVF7fG0uZKGOKM),"Implementação,Inspiração","Tipo 3: Monitoramento Cívico e Ciência Cidadã,Tipo 5: Inovação Aberta e Co-criação","O Crowdmapping é um instrumento digital de mapeamento participativo para coletar e organizar contribuições georreferenciadas (ponto, rota e área), com categorias e relatos curtos.
  
  Ao convidar pessoas a marcar ocorrências no mapa, o método permite:
  
@@ -74,11 +77,11 @@ M002,Mapa Colaborativo (Crowdmapping),fa0f3d75-c084-4e71-b6c4-1c3a78723699.png (
  
  > Produzir evidência territorial para orientar recortes e verificação por amostras.
  
- Neste processo, a pessoa auditora usa o mapa como insumo para levantar hipóteses verificáveis e decidir onde olhar primeiro.","Localizar no território ocorrências e barreiras para priorizar zonas de risco e rotas críticas, de forma a obter evidências diretamente com a participação cidadã.","Para identificar o onde de um problema de política ou serviço público e escolher quais territórios priorizar.
+ Neste processo, a pessoa auditora usa o mapa como insumo para levantar hipóteses verificáveis e decidir onde olhar primeiro.","Localizar no território ocorrências e barreiras para priorizar zonas de risco e rotas críticas, de forma a obter evidências diretamente com a participação cidadã.","Para identificar onde um problema de política ou serviço público se manifesta no território e definir quais áreas devem ser priorizadas.
+
+Para obter recortes por risco e uma lista priorizada de pontos, rotas e áreas para verificação em campo e em bases oficiais.
  
- Para obter recortes por risco e uma lista priorizada de pontos, rotas e áreas para verificação em campo e em bases oficiais.
- 
- Para coletar evidências territoriais diretamente da pessoa cidadã, quando há mobilização mediada e plano de devolutiva.","Não é indicado quando há exclusão digital alta e você não consegue participação híbrida com ponto de apoio e contribuição assistida.
+Para coletar evidências territoriais diretamente da pessoa cidadã, quando há mobilização mediada e plano de devolutiva.","Não é indicado quando há exclusão digital alta e você não consegue participação híbrida com ponto de apoio e contribuição assistida.
  
  Não é indicado quando a geolocalização pode expor pessoas ou locais sensíveis e gerar retaliação.
  
@@ -100,21 +103,21 @@ M002,Mapa Colaborativo (Crowdmapping),fa0f3d75-c084-4e71-b6c4-1c3a78723699.png (
  Autoseleção e exclusão digital. Exige participação híbrida e mobilização direcionada a públicos que tendem a ficar de fora.
  
  Expectativas
- Sem devolutiva e resposta institucional, gera frustração e descrédito.",Médio–Alto,"Áreas focais de auditoria para definir hipótese, recortes e uso do resultado.
- 
- Facilitação e participação social para mobilização e pontos de apoio.
- 
- UX/UI para desenho do formulário e experiência do mapa.
- 
- Desenvolvimento ou plataforma, quando houver customização.
- 
- Análise de dados e geoprocessamento.
- 
- Moderação e curadoria.
- 
- Comunicação e devolutiva.
- 
- Apoio jurídico, compliance e governança de dados para LGPD, retenção e incidentes.","29,30,31,32,33,34,35,36,37,38,39,40,41","ECAM (2015). Methodology of Collaborative Cultural Mapping.
+ Sem devolutiva e resposta institucional, gera frustração e descrédito.",Médio–Alto,"Análise de políticas públicas e auditoria territorial
+Capacidade de formular hipóteses, definir recortes territoriais relevantes e interpretar os dados do mapa como evidência para orientar verificações e priorização de áreas de risco.
+
+Mobilização social e facilitação da participação
+Habilidade para ativar redes locais, envolver cidadãos usuários de serviços públicos e organizar participação assistida quando necessário.
+
+Design e implementação de plataformas digitais
+Competência em UX/UI e configuração de ferramentas de mapeamento participativo (mapa + formulário), garantindo boa experiência de contribuição e estabilidade técnica.
+
+Análise de dados georreferenciados e síntese de evidências
+Capacidade de tratar bases geográficas, identificar padrões espaciais e produzir sínteses úteis para auditoria e tomada de decisão.
+
+Governança, curadoria e proteção de dados (LGPD)
+Habilidade para moderar contribuições, garantir qualidade e rastreabilidade dos dados e implementar salvaguardas de privacidade e segurança da informação.
+","29,30,31,32,33,34,35,36,37,38,39,40,41","ECAM (2015). Methodology of Collaborative Cultural Mapping.
  Rzeszewski et al. (2024). Behind the scenes: crowdmapping tool design roadmap.
  Participedia. PARTIMAP – Participatory map-based surveying tool.
  PARTIMAP (site institucional).
@@ -125,7 +128,7 @@ M002,Mapa Colaborativo (Crowdmapping),fa0f3d75-c084-4e71-b6c4-1c3a78723699.png (
  Lista priorizada de pontos, rotas e áreas, com justificativa por risco.
  
  Relatório de achados com triangulação e plano de devolutiva e resposta institucional.","Varia conforme o ciclo de auditoria e o nível de maturidade. Normalmente tem fase de desenho e implantação e depois funciona em ciclos (coleta, ajuste e nova rodada). Pode durar de algumas semanas a vários meses.",Híbrido,,
-M003,Instalação Interativa,780152cb-68d4-4c9e-9fa1-3c48c536fbdf.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/pT-vnLhmi0gISnoCYLUxzw/i1l5J2Q4iqGTG8mZptlcgUdzLWhKWjsO5-8cUCyeeVDlBIgF3i1MTt8Bej6ocAOmOgY-L36Ht-mns7u8ndzqQ-Ou4djAmH-lbsncek63LwrxuhmkpHC05kiwFZ3PNmqsoj1cQqwGMdMWRVsU2YzKR1w_J-wo4ThWcL6NjoLz-Ga3QbZnVnTkW1bfsebjYEXv/9bgtPWbxeB46pagUjMYkNDJOSgPBHFzPz9sfWMH_W1Y),Inspiração,Tipo 3: Monitoramento Cívico e Ciência Cidadã,"A Instalação Interativa é uma intervenção no ponto presttação do serviço público, com um mecanismo físico de baixo atrito para registrar feedback imediato do usuário sobre qualidade e valores do atendimento, combinando contagem simples e canal opcional de comentário.
+M003,Instalação Interativa,780152cb-68d4-4c9e-9fa1-3c48c536fbdf.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/uVvaAbfC3BxS5c5bd_wp-g/sIAYqdOJXeT5V7FItkAx5rzyDh_4yo9RxNTS4kj9BLNRNmG4KonfmETGMMQtkC3ZWx4FMm31em1pzsPAWFXadcDBHr1G2aqwr7CnjVWTQt3pl82S7xg0pVIpQNp0yH6lzmBee-licP0M6R_xbGUusJvpUMdVzkn0HME16pptDSdwJdkBU43E4t3wWPIvI-To/QhjDWp0y84iPElwJ6PuSLxmKE_un5fb_xYzxvSDAal4),Inspiração,Tipo 3: Monitoramento Cívico e Ciência Cidadã,"A Instalação Interativa é uma intervenção no ponto prestação do serviço público, com um mecanismo físico de baixo atrito para registrar feedback imediato do usuário sobre qualidade e valores do atendimento, combinando contagem simples e canal opcional de comentário.
  
  Ao colocar a instalação no ambiente do serviço, o método permite:
  
@@ -163,7 +166,7 @@ M003,Instalação Interativa,780152cb-68d4-4c9e-9fa1-3c48c536fbdf.png (https://v
  Expectativas
  Sem devolutiva consistente, perde credibilidade e reduz participação.",Médio,"Áreas focais de auditoria para orientar o tema e o uso do resultado.
  
- Parceiro local para operação do espaço.
+Parceiro local para operação do espaço.
  
  Profissional de Design e UX para mecanismo, categorias e instruções.
  
@@ -180,7 +183,7 @@ M003,Instalação Interativa,780152cb-68d4-4c9e-9fa1-3c48c536fbdf.png (https://v
  Base de registros por período e categoria, mais comentários curados.
  
  Síntese de achados com recomendações verificáveis e plano de devolutiva em dois níveis.",6 a 12 semanas ,Presencial,,
-M004,Social Listening ,d60ce57e-4c05-4835-8f67-523a8e39305f.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/1K5W-Dlv7MayVzUawiyj5A/635Cy9nwAfz5bVCiiqReffBNGzMZ2NinnfDPCdQtkYhsfko1uQnhfBLGHxhK33VOpC4Yvi43OVcWNifpX_VnHAWPXMOWXGlgDDyIS81Y8s_ZjDbaLF9PQYlvRY__y3XEv9ryDjYUuUL7eOzp7QY1pEoYM_4qnXv1O5HGu2-C6cLV_2UEh16QvwLW8vWucTCL/dGZWk6JRjQ2L1dgzaIMRlMbaNMFdFawwub-J7p7g488),Implementação,Tipo 6: Imersão e Experiência do Usuário,"O Social Listening é um processo sistemático de monitoramento, classificação e análise de conversas públicas em ambientes digitais para identificar temas, narrativas e sinais precoces que orientam recortes, hipóteses e verificação.
+M004,Escuta Social (Social Listening),d60ce57e-4c05-4835-8f67-523a8e39305f.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/abkA28Xsn3bsdV1sOKDqUg/zJneKzmE1xczSrwXzYdAZCgfVd5k851B-sosTO3Ttfx8wdPmcL2mvPIIX6G2yGXNBOoY3pI2qyIAb496EiaqWBBJ26JLTAE4b1BODTdVJ5zJrHs13r8DLHBjEbQwYltISQYGyPFaDvXYOydo-FiDRChN2_QQcIv9BVoY7cnY-MEsjLhvbkWyhgMZwpABCNv2/kwpumj7GqN15ECB23OceOqecKNQMWODaRATqTzzmYoQ),Implementação,Tipo 6: Imersão e Experiência do Usuário,"O Social Listening é um processo sistemático de monitoramento, classificação e análise de conversas públicas em ambientes digitais para identificar temas, narrativas e sinais precoces que orientam recortes, hipóteses e verificação.
  
  Ao acompanhar temas e mudanças no tempo, o método permite:
  
@@ -198,9 +201,9 @@ M004,Social Listening ,d60ce57e-4c05-4835-8f67-523a8e39305f.png (https://v5.airt
  
  Para orientar recortes por risco e pedidos de evidência, antes de formular recomendação transformativa.","Não é indicado quando o tema é propenso a ruído alto, como notícias falsas, disputa de interesses e grande volume de bots, e você não consegue calibrar e curar.
  
- Não é indicado quando não há governança de dados, protocolo de escalonamento e rotina operacional, porque o alerta vira notificação e não vira ação.
+Não é indicado quando não existem governança de dados, protocolo de escalonamento e rotina operacional. Sem esses mecanismos, os alertas produzidos pelo monitoramento não têm encaminhamento institucional: eles aparecem apenas como notificações, mas não são analisados nem transformados em decisões ou ações.
  
- Não é indicado para afirmar causalidade sem validação e triangulação com evidências formais.","Cidadãos e cidadãs usuárias de redes sociais, fóruns e ambientes digitais relevantes ao tema.
+Não é indicado para afirmar causalidade sem validação e triangulação com evidências formais.","Cidadãos e cidadãs usuárias de redes sociais, fóruns e ambientes digitais relevantes ao tema.
  
  Segmentos afetados por um serviço ou política, além de atores que amplificam narrativas, como mídia local e organizações.","Captação em escala e com rapidez.
  
@@ -218,19 +221,20 @@ M004,Social Listening ,d60ce57e-4c05-4835-8f67-523a8e39305f.png (https://v5.airt
  Risco de reidentificação e uso indevido de conteúdo sensível. Exige participação de jurídico, compliance e governança de dados.
  
  Operação
- Sem log de ação, alerta vira notificação e perde utilidade.",Médio,"Áreas focais de auditoria para orientar hipótese, recortes e pedidos de evidência.
- 
- Analista de dados e pesquisa para taxonomia, queries, calibração e validação.
- 
- Operação da ferramenta, dashboards e alertas.
- 
- Moderação e curadoria com log e critérios.
- 
- Comunicação para mensagens, transparência e devolutiva.
- 
- Jurídico, compliance e governança de dados para limites, retenção e escalonamento.
- 
- Gestão de crise quando aplicável.","54,55,56,57,58,59,60,61,62,63,64,65","Brandwatch — 5 Best Practices for Using Social Listening in the Government Sector.
+ Sem log de ação, alerta vira notificação e perde utilidade.",Médio,"Formulação de hipóteses e recortes de auditoria
+Capacidade de traduzir sinais digitais em perguntas auditáveis, hipóteses e prioridades investigativas.
+
+Análise de dados digitais e taxonomia temática
+Competência para estruturar palavras-chave, taxonomias, queries e classificações que permitam interpretar conversas online.
+
+Operação de ferramentas de monitoramento e dashboards
+Capacidade técnica para configurar plataformas de social listening, alertas, filtros e visualizações.
+
+Curadoria e interpretação de narrativas online
+Habilidade de distinguir sinal de ruído, identificar narrativas recorrentes, atores influentes e possíveis desinformações.
+
+Governança de dados e ética digital
+Conhecimento de LGPD, limites de uso de dados públicos, anonimização e protocolos institucionais de resposta.","54,55,56,57,58,59,60,61,62,63,64,65","Brandwatch — 5 Best Practices for Using Social Listening in the Government Sector.
  Pulsar — Social Listening Guide for Government & Public Bodies.
  NSW Government — Social listening.
  ZenCity/Ashdod case study.
@@ -241,7 +245,7 @@ M004,Social Listening ,d60ce57e-4c05-4835-8f67-523a8e39305f.png (https://v5.airt
  Lista priorizada de pontos, rotas e áreas, com justificativa por risco.
  
  Relatório de achados com triangulação e plano de devolutiva e resposta institucional.","Varia conforme o ciclo de auditoria e o nível de maturidade. Normalmente tem fase de desenho e implantação e depois funciona em ciclos (coleta, ajuste e nova rodada). Pode durar de algumas semanas a vários meses.",Online,,
-M005,Júri Cidadão,1e88e2da-7501-4d7b-ad3d-1340e8f39790.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/MOsxCf5xhoCJ--mdM0acgA/MfAPnDGU56Uy2VGIjI5JKgtN-gUYQjOpSgYvrZM4Y5Xpwr2q3ykY3MWmIDQVQVQe_PSwNQi_Mb54JKXFMp47xiQgkiEtn5fOu__ZOCTkIoP3qN4LrbWqH7Vrap_aNMjG6C63eCLH4HzU2KQk_vRMJiDWwfP6Yx-i7Lzqrq1zQogar_YiNyODbKUg1gAOp_yV/dJanLyEYoSRXRs29WPPVhcHlGmQjJalURcAHVkX_MLU),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"O Júri Cidadão envolve a comunidade na decisão por meio de um grupo de cidadãos, selecionado de forma representativa, que recebe briefing detalhado sobre um tema, ouve testemunhas especialistas, faz perguntas e delibera para produzir um relatório com recomendações.
+M005,Júri Cidadão,1e88e2da-7501-4d7b-ad3d-1340e8f39790.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/IzZYz7WzTft4GDKS_UpZiA/GsTry2gFAyw9wCCkQXvfcsHf4SkqvxPJghmwwbK3PnwEn9U-MxiAP75lxbIpMCJ-6GtuuydVrM8d2cxrLtg-YSxFxt1HzIRzHFD-on0u1QvT0Ki3p7ZVoERfGd20DGu4f-8ch9Va9SWihX5Qmi9LBZxdx_q4xeDAr1i2BXnljqAtHRvaknb94vCyB2jV4-mT/0IGxNNlw1hFRuvG_htNEaiuA_bkhem8ejKtRrRhf8PY),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"O Júri Cidadão envolve a comunidade na decisão por meio de um grupo de cidadãos, selecionado de forma representativa, que recebe briefing detalhado sobre um tema, ouve testemunhas especialistas, faz perguntas e delibera para produzir um relatório com recomendações.
  
  Ao estruturar uma decisão com legitimidade pública, o método permite:
  
@@ -272,22 +276,25 @@ M005,Júri Cidadão,1e88e2da-7501-4d7b-ad3d-1340e8f39790.png (https://v5.airtabl
  Exige seleção, briefing, testemunhas, moderação e logística, com tempo e recursos.
  
  Clareza de uso do resultado
- Sem publicação do relatório e resposta formal, o método perde credibilidade.",Médio–Alto,"Áreas focais de auditoria para orientar o tema e o uso do resultado.
- 
- Moderador ou facilitador independente e apoio de facilitação.
- 
- Equipe operacional para local, materiais, projeção e som.
- 
- Apoio para seleção de jurados e gestão de suplência.
- 
- Equipe de sistematização para redação do relatório e recomendações.
- 
- Comunicação para publicação e devolutiva.","66,67,68,69,70,71,72,73,74,75,76,77",US EPA. Public Participation Guide: Citizen Juries.,[Em construção],12-25,"Relatório final do júri com recomendações e justificativas.
+ Sem publicação do relatório e resposta formal, o método perde credibilidade.",Médio–Alto,"Facilitação e moderação de processos deliberativos
+Capacidade de conduzir discussões estruturadas, garantir equilíbrio de fala, mediar divergências e sustentar um ambiente de deliberação respeitosa e informada.
+
+Desenho metodológico e curadoria de evidências
+Competência para estruturar o problema público, preparar o caderno de informações, organizar alternativas comparáveis e selecionar especialistas ou testemunhas.
+
+Seleção e garantia de representatividade de participantes
+Habilidade para desenhar critérios de amostragem cidadã, recrutar participantes e assegurar diversidade e legitimidade do grupo deliberativo.
+
+Sistematização analítica e redação de recomendações
+Capacidade de registrar evidências, sintetizar argumentos do júri e produzir um relatório claro com recomendações justificadas.
+
+Gestão operacional e comunicação pública do processo
+Competência para organizar logística do evento, garantir infraestrutura e conduzir a publicação do relatório e a devolutiva institucional dos resultados.","66,67,68,69,70,71,72,73,74,75,76,77",US EPA. Public Participation Guide: Citizen Juries.,[Em construção],12-25,"Relatório final do júri com recomendações e justificativas.
  
  Registro das evidências apresentadas e dúvidas críticas.
  
  Publicação do relatório e resposta formal do patrocinador (adoção ou justificativa detalhada).",4 a 7 dias,Presencial,,
-M006,Loteria Cívica,426b779e-1b1e-4858-a3d4-dea68d379442.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/4EzyZZedQno5-XGoJ8WORA/n5VVS0YnHj-mpWv5n7ehakz0hmYDNk7Ht5sXVkPoRau10Ky5fQrjQ3YHHUoGhp8mRRH2GbxnnJTjn9IDl90sk4aykn2-ANcUg6QTcopfNUfaht3ISqtsKrX4AiMErZuwJQDD5UHb3WGjhlV1L9-Ka2zDSiQAYqW9FfwNcpcQOdBzmNL6CNXC-XhFfcBfziYb/aQ9iaaVfeHjbCV2HhZuZu4s1J7FDmdMMHPaeR1rV55w),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"A Loteria Cívica é um método de seleção de participantes. Ela não é a escuta em si. Depois do sorteio, você deve conjugar o resultado com outro método do toolkit para realizar a escuta efetiva.
+M006,Loteria Cívica,426b779e-1b1e-4858-a3d4-dea68d379442.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/N6v62lWTh0hs7n-vyLwYqQ/17q_NzI7btBaF0-adscbVEZMsdQYna9CY3X_ikzQFZwMJM57MEaxEsWSNCY9RWjr5vxvsh3Urxwvgpi4sSpjr6wIXell7BC3cGayJqFQppn21JlHBqcTvsHBdBaFg9WsysBTsrpDhg0bZ6Yz_8aFdq5fy7_3VaKz9ikv5FdVX8Ly7atoP4YzKA7q6ZsjE1VO/fkCXA4YI1dtJx_5GXOgK_BMh_pbJiLT9Eo3aDWvA2JM),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"A Loteria Cívica é um método de seleção de participantes. Ela não é a escuta em si. Depois do sorteio, você deve conjugar o resultado com outro método do toolkit para realizar a escuta efetiva.
  
  Ao selecionar por sorteio com critérios de representatividade e equidade, o método permite:
  
@@ -314,24 +321,27 @@ M006,Loteria Cívica,426b779e-1b1e-4858-a3d4-dea68d379442.png (https://v5.airtab
  Viabiliza suplência por perfil mantendo critérios até o fim.","Taxa de resposta
  Exige milhares de convites e resposta multicanal.
  
- Fonte de dados e LGPD
+ Fonte de dados e LGPD (Lei Geral de Proteção de Dados)
  Risco de coletar além do mínimo. Exige minimização, retenção curta e controle de acesso.
  
  Ajuste de perfis
  Se ajustar na hora, perde defensibilidade. Exige regra pré-definida.
  
  Barreiras de participação
- Sem apoios presenciais e digitais, perde diversidade e equidade.",Médio–Alto,"Áreas focais de auditoria para orientar o tema e o uso do resultado.
- 
- Comunicação para convites e canais de resposta.
- 
- Operação de registro e limpeza com log de mudanças.
- 
- Jurídico, compliance e governança de dados para base, retenção e acesso.
- 
- Suporte à participação com apoios presenciais e digitais.
- 
- Responsável pelo dossiê e pelo controle de acesso à lista nominal.","78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",OECD OPSI. How to run a Civic Lottery: Lotto Guide.,[Em construção],"A seleção irá variar de acordo com a demanda da método de escuta aplicado. 
+ Sem apoios presenciais e digitais, perde diversidade e equidade.",Médio–Alto,"Capacidade de enquadramento do problema público e definição de critérios de representatividade
+Habilidade para traduzir o objeto da auditoria em recortes populacionais e critérios de seleção (território, perfil socioeconômico, gênero, raça, idade etc.), garantindo legitimidade e alinhamento com o objetivo da escuta.
+
+Comunicação pública e mobilização de participantes
+Competência para elaborar convites claros, operar canais de resposta (online e offline) e conduzir estratégias de alcance que aumentem taxa de resposta e diversidade de participantes.
+
+Gestão e tratamento de dados de participantes
+Capacidade técnica para registrar voluntários, realizar limpeza de base de dados, manter log de mudanças e preparar perfis para o sorteio com rastreabilidade e transparência.
+
+Governança de dados, ética e conformidade jurídica (LGPD)
+Conhecimento para garantir minimização de dados, controle de acesso, retenção adequada e conformidade com regras legais e institucionais durante todo o processo de seleção.
+
+Planejamento operacional da participação e inclusão
+Capacidade de identificar e mitigar barreiras de participação (transporte, acessibilidade, inclusão digital, cuidados), garantindo que o grupo sorteado consiga efetivamente participar.","78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",OECD OPSI. How to run a Civic Lottery: Lotto Guide.,[Em construção],"A seleção irá variar de acordo com a demanda da método de escuta aplicado. 
  ","Regras do sorteio e critério de representatividade e equidade.
  
  Base de voluntários com dados mínimos e log de limpeza.
@@ -341,7 +351,7 @@ M006,Loteria Cívica,426b779e-1b1e-4858-a3d4-dea68d379442.png (https://v5.airtab
  Plano de apoios (transporte, alimentação, acessibilidade, cuidado e apoios digitais quando necessário).
  
  Dossiê de defensibilidade e lista nominal separada com controle de acesso.",4 a 10 semanas,N/A,,
-M007,Grupo Focal,Grupo Focal.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/1n_CqTV7buXsK8e5vzbv3w/8xYYj7udpgNXOINlwRBXk9sn0bKLrVy3aOdCGRqR28ejJOq-nmTcTTXr41T6V37ePkjKf53IRLvRlcXM_NQCX8KRf7IMb1zBmS4wZjbv7r4AKM7t0CTAR0ODnE3xBf4u0lpcnlsZJAqmdGwoLAXmHk4fdIueN-HYBXACj90V50o/_5MDl9G0NTTKO-o0BdKs7cGrWdKOXSR0khI0AXfJ0cA),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"O Grupo Focal é uma técnica de pesquisa qualitativa que reúne um pequeno grupo de pessoas para conversar sobre um tema específico, com a mediação de uma pessoa facilitadora.
+M007,Grupo Focal,Grupo Focal.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/uVheAO_JW3cv6gYXKX9Ppw/G2m9BTMreFG1lohHG2rvkCHySQqnAcHLAmSG9O5kLwbgT6SGq3JH4UaWezbRTJNg3J4U8DnGslifxTWlCtvl7vvu4oBApi0R0AG0GskJ-S7pVTaV3DnM6orvvitRkSg1ElaJYpvNEcie9B77MnUtT57D6DKJcfeSLQqwbhtbw2o/XO2xA3qOihUinSIzIVnZRVpTMB8pDxCOZVUtSI4nWk8),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"O Grupo Focal é uma técnica de pesquisa qualitativa que reúne um pequeno grupo de pessoas para conversar sobre um tema específico, com a mediação de uma pessoa facilitadora.
 
 Observação: a pessoa facilitadora exerce papel de autoridade metodológica. O nível de abertura, criticidade e diversidade de perspectivas do grupo dependerá diretamente de como a discussão é conduzida. Grupos tendem a produzir dados compatíveis com o estilo de liderança da facilitação. Saiba mais no passo a passo abaixo.",Produzir dados a partir da interação entre participantes sobre um tema específico.,"O Grupo Focal é mais indicado quando se quer entender como práticas, percepções ou decisões são construídas no cotidiano de um grupo — especialmente em contextos onde normas sociais, rotinas institucionais ou relações de poder influenciam comportamentos.
 
@@ -349,9 +359,25 @@ Bom exemplo:
 Investigar por que equipes técnicas não utilizam um sistema interno já disponível, mesmo após treinamentos. A conversa em grupo pode revelar acordos informais, resistências coletivas, atalhos compartilhados ou interpretações comuns sobre riscos e utilidade que não apareceriam em entrevistas individuais.
 
 Mau exemplo:
-Medir o nível de satisfação de usuários com um serviço público ou estimar a frequência de uso de uma ferramenta. Nesses casos, questionários ou análise de dados administrativos são mais adequados.","O Grupo Focal não é recomendado quando o tema envolve experiências altamente sensíveis (como violência, assédio ou práticas ilegais), pois a presença de outras pessoas pode inibir a fala ou expor participantes a riscos. Também deve ser evitado quando há forte assimetria de poder entre participantes (por exemplo, gestores e subordinados no mesmo grupo), o que tende a gerar autocensura e respostas socialmente desejáveis. Além disso, não é adequado quando o objetivo é compreender trajetórias individuais em profundidade, já que a dinâmica coletiva prioriza construção social de sentido, e não narrativas pessoais detalhadas. Nesses casos, métodos como entrevistas em profundidade tendem a produzir dados mais seguros e confiáveis.","O Grupo Focal é adequado para reunir pessoas usuárias de um mesmo serviço público que compartilham experiências semelhantes no seu uso cotidiano. Funciona melhor com participantes em condição social relativamente equivalente, para reduzir inibições na fala durante a escuta cidadã. É especialmente útil quando se busca compreender percepções coletivas sobre acesso, qualidade ou barreiras no atendimento.		","Permite observar como opiniões são formadas, ajustadas ou contestadas em interação social, e não apenas coletar posições individuais isoladas. A dinâmica coletiva ajuda participantes a lembrar experiências, reagir a diferentes pontos de vista e aprofundar argumentos. Isso torna o método especialmente vantajoso em contextos de escuta cidadã que exigem compreensão de percepções compartilhadas sobre serviços públicos.		","Pode gerar conformidade social, levando participantes a adaptar suas falas ao que percebem como opinião dominante no grupo. A presença de pessoas com maior status social ou institucional pode inibir críticas e reduzir a diversidade de perspectivas. Além disso, resultados dependem fortemente da condução da(o) moderador(a), o que torna o método sensível a vieses de facilitação.		",Baixo,"01 moderador(a) experiente em condução de grupos e manejo de dinâmicas de poder.
-01 pessoa de apoio para agendamentos e logística.
-01 analista para organizar os insights, registro das falas, observação de interações não verbais e produzir a síntese.","93,94,95,96,97,98,99","MORGAN, David L. The Focus Group Guidebook. Thousand Oaks, CA: Sage Publications, 1998.
+Medir o nível de satisfação dos usuários com o serviço.
+
+Por quê:
+Grupo focal não é bom para medir nível de satisfação. Para isso, questionários funcionam melhor.
+
+Grupo focal serve para entender por que as pessoas estão satisfeitas ou insatisfeitas e como elas explicam sua experiência.","O Grupo Focal não é recomendado quando o tema envolve experiências altamente sensíveis (como violência, assédio ou práticas ilegais), pois a presença de outras pessoas pode inibir a fala ou expor participantes a riscos.
+
+Também deve ser evitado quando há forte assimetria de poder entre participantes (por exemplo, gestores e subordinados no mesmo grupo), o que tende a gerar autocensura e respostas socialmente desejáveis. 
+
+Além disso, não é adequado quando o objetivo é compreender trajetórias individuais em profundidade, já que a dinâmica coletiva prioriza construção social de sentido, e não narrativas pessoais detalhadas. Nesses casos, métodos como entrevistas em profundidade tendem a produzir dados mais seguros e confiáveis.","O Grupo Focal é adequado para reunir pessoas usuárias de um mesmo serviço público que compartilham experiências semelhantes no seu uso cotidiano. Funciona melhor com participantes em condição social relativamente equivalente, para reduzir inibições na fala durante a escuta cidadã. É especialmente útil quando se busca compreender percepções coletivas sobre acesso, qualidade ou barreiras no atendimento.		","Permite observar como opiniões são formadas, ajustadas ou contestadas em interação social, e não apenas coletar posições individuais isoladas. A dinâmica coletiva ajuda participantes a lembrar experiências, reagir a diferentes pontos de vista e aprofundar argumentos. Isso torna o método especialmente vantajoso em contextos de escuta cidadã que exigem compreensão de percepções compartilhadas sobre serviços públicos.		","Pode gerar conformidade social, levando participantes a adaptar suas falas ao que percebem como opinião dominante no grupo. A presença de pessoas com maior status social ou institucional pode inibir críticas e reduzir a diversidade de perspectivas. Além disso, resultados dependem fortemente da condução da(o) moderador(a), o que torna o método sensível a vieses de facilitação.		",Baixo,"Facilitação de grupo
+ Capacidade de conduzir a conversa, estimular participação equilibrada e manter o clima de respeito.
+Escuta ativa
+ Saber ouvir atentamente, captar nuances e identificar temas emergentes nas falas.
+Formulação de perguntas abertas
+ Habilidade para fazer perguntas claras que estimulem reflexão e interação entre participantes.
+Gestão da dinâmica do grupo
+ Equilibrar vozes dominantes e incentivar participantes mais silenciosos a contribuir.
+Síntese e interpretação
+ Identificar padrões, convergências e divergências na discussão para apoiar a análise posterior.","93,94,95,96,97,98,99","MORGAN, David L. The Focus Group Guidebook. Thousand Oaks, CA: Sage Publications, 1998.
 MORGAN, David L. Focus Groups as Qualitative Research. 2. ed. Thousand Oaks, CA: Sage Publications, 1997.
 KRUEGER, Richard A.; CASEY, Mary Anne. Focus Groups: A Practical Guide for Applied Research. 3. ed. Thousand Oaks, CA: Sage Publications, 2000.",[Em construção],6 - 10 participantes		,"Relatório de percepções coletivas sobre o serviço público avaliado.
 
@@ -362,7 +388,7 @@ Registro sistematizado de consensos, divergências e tensões entre participante
 Evidências qualitativas (falas-chave) que fundamentam achados da auditoria.
 
 Recomendações orientadas à melhoria do serviço com base na experiência cidadã.",1h a 2h,Híbrido,"MORGAN, David L. The focus group guidebook. Thousand Oaks: Sage Publications, 1998.",https://tcucloud.sharepoint.com/:u:/s/EscutaCidad-PNUD/IQBO5HkUlt8ST5AmpyqrBvmjAdAI9Pgforb81iglePtH86c?e=VWWhOb
-M008,Rodada de Consentimento,Rodada de Consentimento.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/0cpt8JH6oYhOIWv5dgqbKQ/V8vJCYj7LXT9obP9XXBWaM1b8JoULaUu7Eh14_MFIivoziLwkDETApuYpiDECaSWLvk0zFlR-A5dQPptBtMWXTHasrFo5bcaq23e2P_Ods0j8dTBGv8ehWDhzN3uGUfuzufCQ7oHJTB1Y0HCnmPbMfuDN6GgN9ZvmUxg7D4N440/mIum7wZYMMba5keuXkQJgLiR9keT3ALVWig2xp9Ct-s),"Implementação,Ideação",Tipo 4: Processos Deliberativos e de Priorização.,"A Rodada de Consentimento é uma técnica estruturada de tomada de decisão coletiva utilizada na Sociocracia, na qual uma proposta é considerada aprovada quando não há objeções fundamentadas à sua implementação. O objetivo não é alcançar concordância total, mas verificar se a proposta é boa o suficiente por agora e segura o suficiente para ser testada, considerando os riscos percebidos pelas pessoas envolvidas (Buck & Villines, 2007).
+M008,Rodada de Consentimento,Rodada de Consentimento.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/qPQfy5yUSjRQQILnJfWOVg/uC4yyWhHOFWk1jFv3r5H3CUiXnMUKzHjrzsNZSg6UyPHO4MaCHAR4_-KlIWAXrCtaziFGdFQShlsrCHrA8A0CctjIhvDJaOgaU-myBNYzNZZ-4-HVZmoZVlELF1tUSjM6rqf8NX4YRMtID4_Rn8R7TUw6ZRRDJ2jtOH_a-pnzd0/2WEuEfyPRiWtawqbBdXS39aW9X3OBf_dK1yLNJY-RO4),"Implementação,Ideação",Tipo 4: Processos Deliberativos e de Priorização.,"A Rodada de Consentimento é uma técnica estruturada de tomada de decisão coletiva utilizada na Sociocracia, na qual uma proposta é considerada aprovada quando não há objeções fundamentadas à sua implementação. O objetivo não é alcançar concordância total, mas verificar se a proposta é boa o suficiente por agora e segura o suficiente para ser testada, considerando os riscos percebidos pelas pessoas envolvidas (Buck & Villines, 2007).
 
 Diferente de votações ou consenso, a Rodada de Consentimento trata objeções como contribuições técnicas que podem melhorar a proposta antes de sua execução.","Permitir que diferentes atores deliberem sobre encaminhamentos possíveis (proposta de intervenção), garantindo que as decisões acolham objeções e a experiência cidadã.","É mais indicada quando é necessário avaliar coletivamente se uma ação pode ser implementada sem gerar riscos operacionais relevantes.
 
@@ -376,18 +402,27 @@ Assimetrias de poder entre participantes podem inibir manifestações críticas 
 
 O consentimento obtido no grupo não substitui as instâncias formais de decisão do TCU, como Plenário ou Relator. Trata-se de uma etapa deliberativa qualificada que subsidia a decisão superior, a qual permanece juridicamente responsável pelo encaminhamento final. Na prática institucional, propostas construídas com participação e chancela dos envolvidos tendem a ter maior taxa de aprovação pelas autoridades competentes.
 
-Além disso, sua efetividade depende da clareza na facilitação, tornando o método sensível a conduções apressadas ou pouco transparentes.",Médio–Alto,"01 pessoa facilitadora (no contexto do TCU, geralmente o auditor responsável) com capacidade de articulação institucional, escuta ativa e condução imparcial do diálogo, atuando como fomentador de boas conversas e não como impositor de soluções.
+Além disso, sua efetividade depende da clareza na facilitação, tornando o método sensível a conduções apressadas ou pouco transparentes.",Médio–Alto,"Facilitação de grupos
+Capacidade de conduzir a rodada de forma estruturada, garantir turnos de fala e manter o foco na verificação de consentimento.
 
-01 pessoa de apoio para registro das manifestações e gestão dos termos de consentimento.
+Escuta ativa
+Saber ouvir objeções com atenção, sem defensividade, buscando compreender riscos ou limitações apontadas pelos participantes.
 
-01 analista para sistematizar eventuais ressalvas e ajustes solicitados pelos participantes.","100,101,102,103,104,105,106","BUCK, John; VILLINES, Sharon. We the people: consenting to a deeper democracy – a guide to sociocratic principles and methods. Washington, DC: Sociocracy.info Press, 2007.",[Em construção],6 - 10 participantes,"Registro formal da decisão tomada por consentimento, com indicação explícita de que não houve objeções fundamentadas remanescentes.
+Clareza na comunicação de propostas
+Capacidade de explicar a proposta de forma simples, concreta e compreensível para todas as pessoas envolvidas.
+
+Gestão de dinâmicas de poder
+Perceber assimetrias de autoridade ou status e criar condições para que todas as pessoas se sintam seguras para manifestar objeções.
+
+Integração de objeções
+Habilidade para transformar objeções em ajustes práticos na proposta, ajudando o grupo a construir uma solução aceitável para todos.","100,101,102,103,104,105,106","BUCK, John; VILLINES, Sharon. We the people: consenting to a deeper democracy – a guide to sociocratic principles and methods. Washington, DC: Sociocracy.info Press, 2007.",[Em construção],6 - 10 participantes,"Registro formal da decisão tomada por consentimento, com indicação explícita de que não houve objeções fundamentadas remanescentes.
 
 Lista documentada de objeções apresentadas e respectivas integrações realizadas na proposta original.
 
 Versão final ajustada da proposta deliberada, com descrição clara do seu alcance, limites e responsáveis pela implementação.
 
 Memória do processo deliberativo, incluindo critérios utilizados, eventuais ressalvas e condições de monitoramento futuro.",1h a 2h,Híbrido,"BUCK, John; VILLINES, Sharon. We the people: consenting to a deeper democracy – a guide to sociocratic principles and methods. Washington, DC: Sociocracy.info Press, 2007.",https://tcucloud.sharepoint.com/:b:/s/EscutaCidad-PNUD/IQBW5kqGjx0MSLwB4zCWXAGJAY6LQvpI1us4QqqC_MbjoAA?e=R0xp31
-M009,Entrevista em Profundidade,Entrevista em Profundidade.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/N-uUVRDMgbpp_71yBP-pTQ/F7AwMk_LZlqD6ap0pFQhN970q5VwYcrFFPJ00ZNTLmI5jDFqUjAygS1AqZocwFi4ykgVl9PKfpFL3XvPTnaFf3whr3yOZ6aA0etDvVg47gFttWHGrqrt1nyZydbgfbwKdJfSPfKzNujlrQh6845nBhaX_SSAUQwFzp3kt7IIwoGUcXAdtYbBa4JUHP7cd-pd/INVYcTgICMn2WWUbfmSN4bJ2S1ENl42BQa8ZcyhjA28),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"A Entrevista em Profundidade é uma metodologia qualitativa que busca compreender, com densidade analítica, a experiência vivida, os significados atribuídos e os processos decisórios da cidadã e do cidadão em relação a uma política, serviço ou instituição.
+M009,Entrevista em Profundidade,Entrevista em Profundidade.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/UNKSbmh0PyX9YUVzhR45Og/yEB_usT8eH6ewREykIc8kAh07O_FYuHGIg24L_LgfNpA3CalxdOUjgn9sgEpqvNdbyg_JKEtij-E9LUTRaG0aEFheCKnHmqg53ICJOxsFy_CLt523Rro8cpIbZVxto1DIr9xpkTCt5ZToHn6mraqWLZMauuDDZvo2be_AWlHhJYOmhMAGOvedMpU_rPYFPFc/L7WNqHHxQOv5TK6TEk4aF6qsMr_J-O6_0VUGOSWyZwE),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"A Entrevista em Profundidade é uma metodologia qualitativa que busca compreender, com densidade analítica, a experiência vivida, os significados atribuídos e os processos decisórios da cidadã e do cidadão em relação a uma política, serviço ou instituição.
 
 Ao convidar a pessoa entrevistada a narrar sua trajetória, percepções e interpretações em um ambiente de escuta estruturada e reflexiva, o método permite:
 
@@ -455,10 +490,20 @@ Expectativas da pessoa entrevistada
 A participação pode gerar expectativa de mudança imediata. É necessário comunicar claramente o propósito e os limites do processo.
 
 Complementaridade
-Não substitui outros métodos. Deve ser combinada com dados quantitativos ou outras fontes de evidência.",Médio–Alto,"01 Pessoa coordenadora de pesquisa
-01 Pessoa entrevistadora
-01 Pessoa de apoio de agendamento
-01 Analista de insights","107,108,109,110,111,112,113,114","KVALE, Steinar; BRINKMANN, Svend. InterViews: Learning the Craft of Qualitative Research Interviewing. 3. ed. Thousand Oaks: Sage Publications, 2015.",[Em construção],1 (individual),"Dados qualitativos
+Não substitui outros métodos. Deve ser combinada com dados quantitativos ou outras fontes de evidência.",Médio–Alto,"Escuta ativa
+Capacidade de ouvir com atenção, perceber nuances, contradições e mudanças na narrativa da pessoa entrevistada.
+
+Formulação de perguntas abertas
+Habilidade para construir perguntas claras que estimulem descrição de experiências concretas, evitando indução ou julgamento.
+
+Aprofundamento investigativo
+Capacidade de explorar respostas com perguntas de seguimento, reconstruindo acontecimentos passo a passo para revelar barreiras, decisões e percepções.
+
+Gestão da relação entrevistador–entrevistado
+Saber criar ambiente de confiança, lidar com silêncio, evasivas, emoções ou respostas defensivas sem constranger a pessoa entrevistada.
+
+Análise qualitativa e geração de insights
+Capacidade de identificar padrões, tensões e lacunas nas entrevistas, conectando evidências a implicações práticas para a auditoria.","107,108,109,110,111,112,113,114","KVALE, Steinar; BRINKMANN, Svend. InterViews: Learning the Craft of Qualitative Research Interviewing. 3. ed. Thousand Oaks: Sage Publications, 2015.",[Em construção],1 (individual),"Dados qualitativos
 Relatos em texto com as respostas da pessoa entrevistada, organizados por temas ou categorias analíticas.
 
 Registro estruturado das principais barreiras, percepções, experiências e sugestões mencionadas.
@@ -472,7 +517,7 @@ Mensagens prioritárias
 Resumo claro com os principais achados que podem orientar decisão institucional.
 
 Indicação de implicações práticas para melhoria de processos, serviços ou instrumentos de participação.",45min a 1h,Híbrido,,https://tcucloud.sharepoint.com/:b:/s/EscutaCidad-PNUD/IQC3I1FVwRtTSJnq8yxL6RFjAZ1wIGyoIXQZFo2uE5-ZqzE?e=OEli1l
-M010,Rodada de Feedback,Rodada de Feedback.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/7z2hKnonz5U8e0rQukQCzg/9ELldtTREM5f3IMc7nVprFPHdERvH83xmHgGCqomHcKqAFwBXoFX1e1alJfRZ2-LJhsdVCmAE4F2SQ1qAZfy3BR0dicvbw4Gw6_p-AL_nCWWseyYjLbi_si1QFvIkK74kIijbK9tzZVS4VpnHHocNS86HrAyZ_45l5H_0yL2fN8/NzI2Ldl8TXyqZS-Xtc6JP-F5AdO59wriAT7c0dB7Uys),Implementação,"Tipo 2: Consultas Públicas e Diálogo,Tipo 1: Acesso à Informação e Transparência Ativa","A Rodada de Feedback é um método de escuta estruturada que reúne cidadãs e cidadãos para avaliar, de forma organizada, como uma política ou serviço público funciona na prática.
+M010,Rodada de Feedback,Rodada de Feedback.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/Dom9XfPYRhr3pOnWWEEziw/ArdfqVnNJCKy7yhyYQSWxB5bIIUtB5ADlS5DQLGGW1cuEcdb7hwtG682FubMUXBhgqR9mG5MDdiu-dODqX7uz1je1Tb4fuk99W5bywMC4asQ8Be9zevwLuQhuYL3k6xe66vanAU4NP9aXm9WkRmodStkqnARBmdA14zmLVfkMG8/Cg13M3x3quDetceIXauj7bbxeEBnIZMNVAJoae2-MZw),Implementação,"Tipo 2: Consultas Públicas e Diálogo,Tipo 1: Acesso à Informação e Transparência Ativa","A Rodada de Feedback é um método de escuta estruturada que reúne cidadãs e cidadãos para avaliar, de forma organizada, como uma política ou serviço público funciona na prática.
 
 Ao convidar participantes a responder perguntas claras sobre sua experiência de acesso e uso, o método permite:
 
@@ -538,11 +583,20 @@ Natureza qualitativa
 Não produz dados generalizáveis. Deve ser combinada com outras fontes de evidência.
 
 Operacional
-Exige planejamento logístico, registro adequado das contribuições e organização prévia das dimensões de análise.",Médio–Alto,"01 pessoa facilitadora experiente em condução de grupos e escuta estruturada.
+Exige planejamento logístico, registro adequado das contribuições e organização prévia das dimensões de análise.",Médio–Alto,"Facilitação estruturada de escuta
+Capacidade de conduzir a Rodada de Feedback mantendo foco na pergunta orientadora e nas dimensões definidas, garantindo participação equilibrada e ambiente seguro.
 
-01 pessoa responsável pelo registro estruturado
+Escuta analítica
+Saber ouvir relatos de experiência identificando padrões, diferenças entre perfis e sinais de barreiras recorrentes na implementação da política ou serviço.
 
-01 pessoa analista vinculada à auditoria","115,116,117,118,119,120,121,122","OECD. OECD Guidelines for Citizen Participation Processes. Paris: OECD Publishing, 2022.",[Em construção],8 - 15 participantes,"Dados qualitativos estruturados
+Formulação de perguntas claras
+Habilidade para transformar dimensões de análise em perguntas simples, concretas e baseadas na experiência real das pessoas participantes.
+
+Registro e organização de evidências qualitativas
+Capacidade de registrar contribuições de forma fiel, vinculando cada relato à dimensão analisada e ao perfil da pessoa participante, assegurando rastreabilidade.
+
+Síntese orientada a recomendações
+Habilidade para identificar implicações práticas dos padrões observados e convertê-los em insumos claros para recomendações técnicas da auditoria.","115,116,117,118,119,120,121,122","OECD. OECD Guidelines for Citizen Participation Processes. Paris: OECD Publishing, 2022.",[Em construção],8 - 15 participantes,"Dados qualitativos estruturados
 Registros organizados das respostas às perguntas orientadoras, agrupados por dimensões de análise previamente definidas.
 Inclui:
 
@@ -567,7 +621,7 @@ Registro de devolutiva
 Comunicação formal informando como as contribuições foram utilizadas no processo de auditoria.","Varia conforme o ciclo de auditoria e o nível de maturidade. Normalmente tem fase de desenho e implantação e depois funciona em ciclos (coleta, ajuste e nova rodada). Pode durar de algumas semanas a vários meses.",Híbrido,"OECD. OECD Guidelines for Citizen Participation Processes. Paris: OECD Publishing, 2022.
 
 WORLD BANK. Community Score Card Process Toolkit. Washington, DC: World Bank, 2007.",
-M011,Pesquisa Adaptativa com IA Generativa (PAIAG),PAIAG.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/mBrDFJB6xd0XmIGT1sFfrQ/4bqJ-apgE3pDtOaXqkyH36zCB35l96_SUCtii-s7e-JNVZPqB6qlKHucnouKc1ERJ7LR1H9pukL8vluh7Tr2vYNN20cw-41gqL0OyG5zBR1HmEngJrkSS5PEMTifcQZsQf_9OpkOs-269iWZp0hqoA/AzhQhHHUGNrQ3wXQ_oK7RnenVxQMDgqTWfEd7RGaqec),Inspiração,Tipo 5: Inovação Aberta e Co-criação,"A Pesquisa Adaptativa com IA Generativa (PAIAG) é uma técnica sociotécnica de escuta estruturada que integra inteligência coletiva digital, entrevista conversacional assistida por IA e geração dinâmica de instrumentos de pesquisa.
+M011,Pesquisa Adaptativa com IA Generativa (PAIAG),PAIAG.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/IGrpbXm8E1kdcR29Go7AjA/aQH4ObMSJiBhAkTPSxJFjx1H6gxePL7hqZ9upG5L72HS6rHXDjw-Xhc3RiFlSIa32zZ9wm6L3XrraBQss1nWfptD4StKMjb9XlTt8C7Pm7_lsBuvX8gWEMu0wpjmZRG-Ga8auz_cpLLKnnp0ewxrmA/voBDEOFSKoDrhl3xnsrwgJLsYZIQF_8wLjj3nIYK4FI),Inspiração,Tipo 5: Inovação Aberta e Co-criação,"A Pesquisa Adaptativa com IA Generativa (PAIAG) é uma técnica sociotécnica de escuta estruturada que integra inteligência coletiva digital, entrevista conversacional assistida por IA e geração dinâmica de instrumentos de pesquisa.
 
 A metodologia combina desenho humano de enquadramento do problema com apoio de IA para:
 
@@ -577,7 +631,7 @@ Aprofundar narrativas por meio de sondagens adaptativas
 Organizar evidências qualitativas com rastreabilidade
 Reduzir custo operacional sem reduzir densidade analítica
 
-Ao invés de aplicar um questionário fixo, a PAIAG permite que a escuta evolua conforme o material empírico emerge, mantendo controle metodológico humano sobre critérios, limites e implicações.
+Invés de aplicar um questionário fixo, a PAIAG permite que a escuta evolua conforme o material empírico emerge, mantendo controle metodológico humano sobre critérios, limites e implicações.
 
 Neste processo, a pessoa auditora atua como curadora e guardiã epistemológica. A IA não substitui julgamento, mas apoia organização, síntese e expansão de hipóteses. A decisão analítica permanece institucional.
 
@@ -622,13 +676,20 @@ A técnica demanda capacidade institucional. Sem equipe preparada para interpret
 
 Em termos de escala, embora a PAIAG ajude a organizar volume qualitativo, ela continua sendo um método intensivo em análise. Não substitui pesquisa probabilística nem produz inferência estatística.
 
-Por fim, pode gerar expectativas na pessoa participante. Se a escuta é aprofundada mas não há devolutiva ou incorporação visível na decisão, o efeito pode ser frustração. A gestão de expectativa deve ser parte do desenho metodológico.",Médio–Alto,"1 pessoa coordenadora metodológica com experiência em pesquisa social aplicada e escuta cidadã. Essa pessoa conduz o enquadramento do problema, valida as hipóteses iniciais, supervisiona as adaptações do instrumento adaptativo e garante coerência metodológica na produção dos insights.
+Por fim, pode gerar expectativas na pessoa participante. Se a escuta é aprofundada mas não há devolutiva ou incorporação visível na decisão, o efeito pode ser frustração. A gestão de expectativa deve ser parte do desenho metodológico.",Médio–Alto,"Formulação de perguntas analíticas
+Capacidade de transformar problemas públicos em perguntas claras, abertas e investigáveis, evitando indução de resposta e permitindo que padrões emergentes apareçam na escuta.
 
-1 pessoa analista de dados qualitativos responsável por organizar o material coletado, acompanhar padrões emergentes e estruturar a relação entre dados, informações e insights. Essa função também assegura rastreabilidade analítica entre evidência e implicação institucional.
+Análise qualitativa e geração de insights
+Habilidade para interpretar respostas, identificar padrões, tensões e lacunas e transformar evidências em insights com implicação prática para decisão pública.
 
-1 pessoa responsável pela operação técnica da ferramenta de IA utilizada no processo. Essa pessoa configura o instrumento adaptativo, monitora as interações, registra as iterações do questionário e verifica possíveis distorções ou induções algorítmicas durante a coleta.
+Supervisão de instrumentos adaptativos
+Capacidade de acompanhar e orientar a adaptação dinâmica do questionário durante a coleta, garantindo coerência metodológica e evitando induções ou distorções.
 
-1 pessoa responsável pela mobilização e relação com participantes. Essa pessoa conduz convites, esclarece objetivos da escuta, acompanha dúvidas dos participantes e apoia a gestão da devolutiva institucional.","123,124,125,126,127,128,129,130,131,132","SALGANIK, Matthew J. Bit by Bit: Social Research in the Digital Age. Princeton: Princeton University Press, 2017.
+Raciocínio sociotécnico
+Competência para integrar tecnologia de IA com princípios de pesquisa social, compreendendo limites algorítmicos, riscos de viés e implicações éticas.
+
+Síntese estratégica para decisão
+Habilidade para organizar evidências e insights em mensagens claras, conectando achados da escuta a implicações institucionais e possibilidades de ação.","123,124,125,126,127,128,129,130,131,132","SALGANIK, Matthew J. Bit by Bit: Social Research in the Digital Age. Princeton: Princeton University Press, 2017.
 
 LANDMORE, Hélène. Open Democracy: Reinventing Popular Rule for the Twenty-First Century. Princeton: Princeton University Press, 2020.
 
@@ -649,7 +710,7 @@ vTaiwan documentation e casos empíricos analisados em periódicos sobre democra
 https://github.com/soubhikbarari/llms-surveys-aapor-24?utm_source=chatgpt.com
 https://aapor.org/newsletters/best-practices-for-using-generative-ai-for-survey-research/?utm_source=chatgpt.com
 "
-M012,Veedurías,dc6dfc7a-3397-4061-be25-7b578082cbe0.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/U8LlFc-FdUNae4urTvtnbw/gEiiGVbeuA4_O-fAF_FLJsp4SJH6vxj-Ci5xPIEhXIvQMCbY8UxF4_Ofb5G7uWgXGT4PPR5RJRm9HZRARnLTNOmYrHbyy4RcHxI7aP2qe7eoNHMQXVsdMMIcONmN7c2jkUxOqbp6--WkqMfy3y4AFPU5C8JAt02nHuTVtIJgu5wxVghLHIjS3ZhYhR3yO_cc/TMeo5uTjs7O1GUhaLYcL3m3Ttjd0ra0tJV1mLT2kP0I),Implementação,Tipo 3: Monitoramento Cívico e Ciência Cidadã,"Veedurías são ciclos de monitoramento cidadão em que cidadãos e cidadãs treinados e acreditados verificam presencialmente e de forma virtual obras, compras e intervenções com recursos públicos, usando checklist padronizado com resposta sim ou não e evidência mínima não sensível.
+M012,Veedurías,dc6dfc7a-3397-4061-be25-7b578082cbe0.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/2NcFK3FcEqwS0uKy9ILb4Q/ZYscFJsUowa2gmfgRAzhd-RZEkRRIGrhk4SdXQj3QrWkCtnZlgXgHLQemjQ6b1Yowj4gKYLeyrIw6bZCwWNyOUVmxz74zAZwWgyFzEE1IHg_dP3IrXJkgpcoEuK8GViT8AHga8IlSlOYJJ16ofk1_l46M-ITSxxUeevxGidC989gKyBnXOVWbwk7LukRB48N/gDfEknVU92m7ZwNwzxsgNkJI_AO2x_f7MrAGPlT-OyM),Implementação,Tipo 3: Monitoramento Cívico e Ciência Cidadã,"Veedurías são ciclos de monitoramento cidadão em que cidadãos e cidadãs treinados e acreditados verificam presencialmente e de forma virtual obras, compras e intervenções com recursos públicos, usando checklist padronizado com resposta sim ou não e evidência mínima não sensível.
 
 Ao capacitar, credenciar e distribuir tarefas de verificação, o método permite:
 
@@ -669,17 +730,20 @@ Segurança e privacidade exigem regra de não fotografar pessoas e documentos e 
 
 Falso positivo exige validação por amostras nos alertas mais graves.
 
-Sem devolutiva e resposta, o voluntariado perde engajamento e o método perde legitimidade.",Médio–Alto,"1 Coordenação metodológica: define o ciclo, objetos de verificação, checklist e regras do processo.
+Sem devolutiva e resposta, o voluntariado perde engajamento e o método perde legitimidade.",Médio–Alto,"Monitoramento cívico estruturado
+Capacidade de transformar a verificação de obras, serviços ou compras públicas em tarefas claras, com checklist objetivo e critérios verificáveis.
 
-1 Gestão de voluntariado: recruta, capacita, credencia e acompanha os cidadãos verificadores.
+Treinamento e mobilização de voluntariado
+Habilidade para recrutar, capacitar e orientar cidadãos monitores, garantindo compreensão das regras de conduta, segurança e qualidade do registro.
 
-1 Operação de campo / ponto focal: suporte aos voluntários durante a execução (presencial ou virtual) e resolução de dúvidas operacionais.
+Registro de evidências
+Capacidade de coletar e documentar evidências mínimas de forma padronizada (checklist, fotos não sensíveis, identificação do objeto), garantindo rastreabilidade.
 
-1 Triagem e moderação de relatórios: recebe os envios, verifica evidência mínima e decide entrada na base (entra / não entra).
+Triagem e curadoria de dados
+Habilidade para verificar consistência dos relatórios enviados, aplicar critérios de entrada (entra/não entra) e organizar a base para análise.
 
-1 Análise e validação: limpa os dados, valida amostras de alertas críticos e produz síntese analítica.
-
-1 Suporte tecnológico: mantém o canal de envio, protocolo e armazenamento das evidências.","133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151",Guía de Voluntariado MCC: Monitores Ciudadanos de Control ,[Em construção],20–200 cidadãos por ciclo (ajustar à capacidade de triagem e validação,"Checklist versionado por tipologia com regra de evidência mínima.
+Análise de padrões e priorização por risco
+Capacidade de identificar recorrências nos alertas, validar amostras críticas e transformar os achados em insumos úteis para auditoria e tomada de decisão.","133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151",Guía de Voluntariado MCC: Monitores Ciudadanos de Control ,[Em construção],20–200 cidadãos por ciclo (ajustar à capacidade de triagem e validação,"Checklist versionado por tipologia com regra de evidência mínima.
 
 Relatórios por objeto com protocolo e anexos padronizados.
 
@@ -688,7 +752,7 @@ Base consolidada com logs de triagem e curadoria.
 Amostra validada dos alertas críticos com grau de confiança.
 
 Síntese do ciclo com padrões, recortes por risco, pedidos de evidência e recomendações.",Ciclos curtos e repetidos; a duração varia conforme o número de objetos e o ciclo de auditoria.,Híbrido,,
-M013,Hackathon Cívico,c0077abd-2477-4c76-8214-4e3aaba00be8.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/2j035QDBljclhCUYi8FiYA/RYzRpndRrmpvV1iOAMluxQkjcNkw8WApzwtigXCzdj3vzZauH3RstQm3GKVFphyPAqU3QSmaAYNbFtcrhWruCJLxr_MaDC5gyk44sYG3zPu7X_ojnS-Rqy3JPrR_sBt_2t-cfKnjf186ZZlymnYiSQW8YPY6S4kp8u0scUt8wtm6lNQYA0FtOFctRtv_XCet/9deLHEzAHrbt7eqwlhD5gh3_q-q6ttUO_tXTZv9G-r8),Ideação,Tipo 5: Inovação Aberta e Co-criação,"Hackathon Cívico é uma dinâmica intensiva de dois dias em que equipes pequenas criam protótipos e entregáveis práticos para um desafio público, com apresentação final e avaliação por júri. Ao propor um produto final obrigatório, o método permite:
+M013,Hackathon Cívico,c0077abd-2477-4c76-8214-4e3aaba00be8.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/O3kGKexQ8C06h8n2QrsM2g/qWPxUYfjLdyx_TQYbVMsEfsdiL2m1bDYPPMshzNiDjw_v-VDeem8qpHi1XxUjsVy_IL7PDToekEsO0munzytDAUZaLB5YcX49V_c9tZIqyVxL_o9ljw4AfP1vLKfmS6yIq628YEE5CA7fh6pMzRsU1NREwiaznVdfpNBTxHU1PrQEtJ5q0FNXY1YIOEFIEZ5/0nW9EMQy962T_1gADI5GSf04Mw2GxFIxfEW_kQ0Bqgg),Ideação,Tipo 5: Inovação Aberta e Co-criação,"Hackathon Cívico é uma dinâmica intensiva de dois dias em que equipes pequenas criam protótipos e entregáveis práticos para um desafio público, com apresentação final e avaliação por júri. Ao propor um produto final obrigatório, o método permite:
 
 • Produzir pacotes de solução com protótipo, justificativa e plano simples de teste pelo órgão responsável.
 
@@ -716,7 +780,7 @@ Pasta de entregas padronizada e apresentação final.
 Planilha de notas do júri e critérios aplicados.
 
 Dossiê do evento e síntese técnica para recomendações e interlocução.",2 dias,Presencial,,
-M014,Estúdio de Design para Auditoria,f44a1c05-44ad-46bc-9855-d58fb373a3ad.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/Uoac7TZ0Un8eJL4ODLUaeg/wNJ4H4oVpMbBQu5rWNvPqkWfNQBPxUYceUxGCo9yh2wlfjBl3Ez6tteQ-5MDgTGBxKoFFN_ziyCDeD1U0cfU0fA3FYCqppboUUu_Ram6D8n8z2H67eo_p5RdcDIgYpPcj1eSmHFFBp1wjlL509M66QZvCLmZSzYdfoVTNwbNefXfj4H7tAPqLOEf5mC282rE/e9NnEVClzxO53G7Fd_WYaQRZ6NBjtEpavQcBAzDnlQ0),Implementação,Tipo 1: Acesso à Informação e Transparência Ativa,"O **Estúdio de Design para Auditoria** é uma abordagem que integra práticas de design ao processo de investigação institucional para qualificar a forma como problemas públicos complexos são estruturados, interpretados e comunicados.
+M014,Estúdio de Design para Auditoria,f44a1c05-44ad-46bc-9855-d58fb373a3ad.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/sM4Jd1SQwxYppaOLm7arpg/7X0k1ECKVIpiIIfu1DkqRZgU4b4-sVo-ABdT9Lp-MN_8LU39Ijwue1R7sWOWgjlXS1V9MFIRRfHpAiXRFhhuRg1itABNCa61t9Ydr6pHxPrQ1G94ccgq39WU9mjB-JAUBv0-lUiB_b7_9hhXaihFzUjAvCtOFG-q7mji22rCdCws3XhzsEwdqhVIFB4nMKD5/eVpmW12AJjKL3rHyWgIR9cbeAj9i02VG4J473PPEw64),Implementação,Tipo 1: Acesso à Informação e Transparência Ativa,"O **Estúdio de Design para Auditoria** é uma abordagem que integra práticas de design ao processo de investigação institucional para qualificar a forma como problemas públicos complexos são estruturados, interpretados e comunicados.
 
 A metodologia combina análise técnica com princípios de design centrado nas pessoas para transformar informações complexas em representações claras, acessíveis e visualmente inteligíveis.
 
@@ -733,7 +797,7 @@ Nesse processo, representações visuais e protótipos funcionam como instrument
 
 A abordagem também fortalece a etapa de devolutiva pública. Ao traduzir temas técnicos em formatos compreensíveis, o método reduz barreiras cognitivas entre instituição e sociedade e amplia a inteligibilidade das informações produzidas.
 
-Nesse arranjo, a pessoa auditora permanece responsável pela interpretação técnica e pela decisão analítica. O design atua como suporte para organizar complexidade, tornar estruturas visíveis e facilitar a comunicação institucional.","Traduzir temas técnicos em formatos compreensíveis, reduzir barreiras cognitivas entre instituição e sociedade, e ampliar a inteligibilidade das informações produzidas sem perder validade técnica.","O **Estúdio de Design para Auditoria** deve ser utilizado quando o problema investigado é complexo, envolve múltiplos atores institucionais e apresenta relações difíceis de compreender apenas por meio de descrição textual.
+Nesse arranjo, a pessoa auditora permanece responsável pela interpretação técnica e pela decisão analítica. O design atua como suporte para organizar complexidade, tornar estruturas visíveis e facilitar a comunicação institucional.","Apoiar a compreensão compartilhada de problemas complexos por meio de representações visuais que organizam informações de forma clara. Facilita o alinhamento entre diferentes áreas técnicas, qualifica a comunicação institucional e torna mais acessível a devolutiva pública.","O **Estúdio de Design para Auditoria** deve ser utilizado quando o problema investigado é complexo, envolve múltiplos atores institucionais e apresenta relações difíceis de compreender apenas por meio de descrição textual.
 
 A abordagem é indicada quando a equipe precisa estruturar problemas sistêmicos, nos quais políticas públicas, fluxos administrativos e experiências de cidadãos e cidadãs se articulam de forma não linear. Nesses casos, representações visuais como mapas de sistema, diagramas de fluxo ou jornadas de usuários ajudam a revelar conexões, pontos de fricção e lacunas de compreensão.
 
@@ -792,7 +856,7 @@ Capacidade de traduzir conteúdos técnicos em formatos acessíveis para diferen
 **Síntese visual estruturada**. Trata se de um conjunto organizado de gráficos, esquemas ou narrativas visuais que explicam o problema de forma clara. Essa síntese apoia a compreensão do tema por equipes técnicas, gestores públicos e cidadãos e cidadãs.
 
 **Registro do processo de construção das representações**. Esse registro documenta quais informações foram utilizadas, quais versões de mapas ou diagramas foram produzidas e como a equipe refinou a forma de explicar o problema. Esse material contribui para transparência metodológica.",2–5 dias,Híbrido,,
-M015,Cidadão Oculto,96e0e568-503b-4952-b342-0ecdabe28879.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/-kGba0IPRtaGNuk4J-QkHA/WYj1cK_2UiJaslmsQd-UWpahNzvXaMBLoEO-eLUnbIGMvz6JbkAGfP6cWRvkzKqx88oTjCEIAnirRnTFkw-IHBgjboz7kC1rzdX76epF_F9C6QJ3IcG8dVYnvZ0z35-Rr6BDST-sbA2cKW3kaLSi2weNIuUgyqpIJZqfHW80wFn7DufLEoxKFi_WYMroLTSg/ieg2uKRPKBeMJnPOcpb0f37P-vWTPGu1s4qm_0sGSCg),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"Cidadão Oculto é um ciclo em que cidadãos e cidadãs, treinados e seguindo roteiros padronizados, interagem com um serviço como usuários comuns para registrar se o atendimento e a informação seguem o padrão esperado.","Testar, com cidadãos e cidadãs treinados e roteiros padronizados, se a orientação, o fluxo e o acesso ao serviço seguem o padrão esperado, produzindo registros comparáveis por canal e unidade para achados e recomendações.","Para testar, de forma comparável, qualidade de orientação, tempo de resposta, encaminhamento e barreiras de acesso em canais do serviço.","Não recomendado quando houver alto risco de conflito no local, risco de retaliação, ou necessidade de coleta de dados sensíveis para executar o cenário.","Cidadãos e cidadãs usuários do serviço e afetados pelo tema. Requer capacitação para seguir roteiro, registrar evidência mínima e não induzir atendimento.",Produz aprendizados e insights práticos por etapa da jornada. Identifica divergência de orientação e barreiras reais. Gera percepções sobre o objeto investigado por canal e unidade.,"Risco de exposição se não houver protocolo de privacidade.
+M015,Cidadão Oculto,96e0e568-503b-4952-b342-0ecdabe28879.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/_gEbSxdsobIvmMMuIetKHg/VFy3aZWeRZjBFxtfC80ojhc63B44Qa6IJD8ib9aleIlDW5Zi3u0vcMq8WCSXB6MK5ch4iAJkWjWpHtzMmf24AKNnBilF8J2Sxm5l7JaEu0BpvWViWpP3tWQrcDg_awQeiLzt1ySKLrq0AUM7ge2Q9DuZXqe70bYB4f-Q6fhcBUdmpOuCybn_K6T9iZjOCEFn/TxcdySEBgiVthN5a4_3DsngQmaEKH0NApOrWfsWTwMw),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"Cidadão Oculto é um ciclo em que cidadãos e cidadãs, treinados e seguindo roteiros padronizados, interagem com um serviço como usuários comuns para registrar se o atendimento e a informação seguem o padrão esperado.","Testar, com cidadãos e cidadãs treinados e roteiros padronizados, se a orientação, o fluxo e o acesso ao serviço seguem o padrão esperado, produzindo registros comparáveis por canal e unidade para achados e recomendações.","Para testar, de forma comparável, qualidade de orientação, tempo de resposta, encaminhamento e barreiras de acesso em canais do serviço.","Não recomendado quando houver alto risco de conflito no local, risco de retaliação, ou necessidade de coleta de dados sensíveis para executar o cenário.","Cidadãos e cidadãs usuários do serviço e afetados pelo tema. Requer capacitação para seguir roteiro, registrar evidência mínima e não induzir atendimento.",Produz aprendizados e insights práticos por etapa da jornada. Identifica divergência de orientação e barreiras reais. Gera percepções sobre o objeto investigado por canal e unidade.,"Risco de exposição se não houver protocolo de privacidade.
 
 Resultado pode ser enviesado por execução irregular do roteiro.
 
@@ -830,10 +894,10 @@ https://mitgovlab.org/news/taking-the-mystery-out-of-access-to-information-in-ke
 Percepções e insights por etapa.
 
 Pedidos de percepções e recomendações.",1–2 semanas,Híbrido,,
-M016,Plataforma (Hub) de Participação Social,f790bcdf-dd75-4807-bb7f-1337bacdbb7a.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/DL86Rv-jsGyvw45Rifp97Q/56ZExNYGIQ1DZ8aRsFhLf7XWR0XDiClyte2WEs2_BWxuF8505fLITbmvcS0KCvNc3W7_rbsyz4100MXyqMZXRbhtvZIp8I3Q7k5EE-i8hHlox-jGPVnWMZlrVKFox80PZn4F9vmKmwe7TEt3QrEuJrvlwpmZ2nEWPp7VHWcaWsJcVD8e8BqRcF2lqIKmRzb_/1oWpzRZqo0KHvonpJdIl3BTr1Aixx1IWPV7DNXG6mAI),Inspiração,Tipo 2: Consultas Públicas e Diálogo,"A Plataforma (Hub) de Participação Social permite a cidadãos e cidadãs propor temas, apoiar propostas, comentar e votar para selecionar prioridades. O ciclo fecha com resultado publicado e encaminhamento em forma de temas priorizados e justificativas.","Coletar propostas de temas e priorizar por votação em ciclos, com triagem e consolidação rastreáveis, gerando uma lista de temas e recortes verificáveis para orientar planejamento, pedidos de evidência e produção de recomendações.","Para selecionar temas por votação e construir uma lista priorizada com rastreabilidade, quando você precisa de um funil claro de submissão, triagem e votação.","Não recomendado quando não há capacidade de moderação e triagem, ou quando não há compromisso de publicar resultado com justificativa e acompanhamento.","Cidadãos e cidadãs afetados por políticas e serviços públicos, com apoio de acessibilidade e participação assistida quando houver barreira digital.",Amplia participação e transparência. Produz priorização rastreável. Ajuda a captar temas emergentes e recortes territoriais.,"Vieses de autoseleção.
+M016,Plataforma (Hub) de Participação Social,f790bcdf-dd75-4807-bb7f-1337bacdbb7a.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/1cmDYaN-ggs-AHUBI6vfsg/pDBnkVoohj9GW7UpP1cRpxhTa3nQLoI8vsGnWjTDsi7VBY7OEs1qsWlUB7BOR0LVNw01oW_aKQ6mSZp5GZYqo7-6dncYhbwMSMjitONT0Y1josvpt4umeTcZnfaDbbDxNtQDDz7EAOTNmBt8NJyst9o3DELY0-fdjUAJv79yar3kRmTiSNhW5NrFoTSVGe7v/0ijDJ4QddrwgreAEKeCcr9nF63LyXjrVkK6d5RSLw5c),Inspiração,Tipo 2: Consultas Públicas e Diálogo,"A Plataforma (Hub) de Participação Social permite a cidadãos e cidadãs propor temas, apoiar propostas, comentar e votar para selecionar prioridades. O ciclo fecha com resultado publicado e encaminhamento em forma de temas priorizados e justificativas.","Coletar propostas de temas e priorizar por votação em ciclos, com triagem e consolidação rastreáveis, gerando uma lista de temas e recortes verificáveis para orientar planejamento, pedidos de evidência e produção de recomendações.","Para selecionar temas por votação e construir uma lista priorizada com rastreabilidade, quando você precisa de um funil claro de submissão, triagem e votação.","Não recomendado quando não há capacidade de moderação e triagem, ou quando não há compromisso de publicar resultado com justificativa e acompanhamento.","Cidadãos e cidadãs afetados por políticas e serviços públicos, com apoio de acessibilidade e participação assistida quando houver barreira digital.",Amplia participação e transparência. Produz priorização rastreável. Ajuda a captar temas emergentes e recortes territoriais.,"Vieses de autoseleção.
 Volume de duplicatas e ruído sem curadoria.
 Frustração se não houver devolutiva e acompanhamento.",Médio–Alto,"**Facilitação de processos participativos**
-Capacidade de conduzir encontros presenciais ou interações digitais com diferentes públicos, garantindo ambiente de escuta respeitosa, clareza de regras e estímulo à contribuição de cidadãs e cidadãos. Inclui manejo de dinâmicas coletivas, organização de falas e cuidado com assimetrias de participação.
+Capacidade de conduzir encontros/oficinas com diferentes públicos, garantindo ambiente de escuta respeitosa, clareza de regras e estímulo à contribuição de cidadãs e cidadãos. Inclui manejo de dinâmicas coletivas, organização de falas e cuidado com assimetrias de participação.
 
 **Operação de plataformas de participação digital**
 Conhecimento básico sobre funcionamento de plataformas de participação, como criação de processos participativos, registro de propostas, organização de comentários, acompanhamento de apoios e publicação de devolutivas. Inclui compreensão de fluxos de moderação e gestão de interações online.
@@ -859,26 +923,38 @@ https://decidim.org/features/?utm_source=chatgpt.com
 https://ajuntament.barcelona.cat/participaciociutadana/sites/default/files/documents/1_en_iniciatives_orgcc.pdf
 
 Cour des comptes. Campanha de participação cidadã 2025 e temas selecionados anunciados em janeiro de 2026.
-https://oidp.net/en/practice.php?id=1407&utm_source=chatgpt.com",[Em construção],Aberto ao público; depende da janela do ciclo.,Base de propostas com protocolo. Lista de temas consolidados. Resultado de votação. Justificativas e encaminhamentos. Painel de acompanhamento por tema.,2–6 semanas,Online,,
-M017,Jogos com Propósito (Serious Games),6b758906-c07e-48a5-bf09-3b1aa1a8457d.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/7pTVkRKyOTCfyR5p7HhJuw/kD82pFMPqPnuvkQ7EJKhnAO_1m5MVIMQRPQZjdTgeq4r71y4AH-f3jeMjcRLpbZZYzk7Qw1GbhMVNfITRYuRLgUg3zaMC1XirusAi909pqA_e8ham6e-yos7USkrEbV6KTI_PYpzfXxqpjIRWPBmieUx_eikT9lqg_osnJ0xSbP-lL55jPRfF2X4Esqcox9h/gO8WWiuaGVL2s52A3Yak0A9YD_KvPmo1M1ljtuXl2tM),Ideação,"Tipo 5: Inovação Aberta e Co-criação,Tipo 4: Processos Deliberativos e de Priorização.",Serious Games são jogos com cenários e escolhas que fazem cidadãos e cidadãs priorizarem opções e prioridades. O método registra decisões e justificativas de forma comparável para gerar achados e recomendações de auditoria.,"Produzir evidência experiencial estruturada e comparável a partir de escolhas e justificativas de cidadãos e cidadãs sobre alternativas de política ou serviço, para levantar hipóteses auditáveis, definir prioridades e gerar recomendações.","Para coletar preferências informadas em temas complexos, quando você precisa que o cidadão compare opções com consequências e gere escolhas registráveis.",Não recomendado quando o jogo depender de dados pessoais ou quando não houver facilitação neutra e protocolo de registro.,Cidadãos e cidadãs afetados pelo tema e usuários do serviço. Deve-se prever nivelamento e mediação para reduzir disparidade de conhecimento e de prototipagem.,Explicita prioridades  e valores. Aumenta engajamento com registro estruturado. Permite comparar escolhas entre sessões.,Resultado pode refletir desenho ruim do jogo. Risco de indução por facilitação. Precisa versionar regras e cartas.,Médio–Alto,"01 Pessoa para Facilitação e Moderação
+https://oidp.net/en/practice.php?id=1407",[Em construção],Aberto ao público; depende da janela do ciclo.,Base de propostas com protocolo. Lista de temas consolidados. Resultado de votação. Justificativas e encaminhamentos. Painel de acompanhamento por tema.,2–6 semanas,Online,,
+M017,Jogos com Propósito (Serious Games),6b758906-c07e-48a5-bf09-3b1aa1a8457d.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/7g6Ctt5HtvRyE8DiMMNTOg/08Y-TxWTiK1bF03co_jcDrVBK0ROBaU7QTAiOVniyngiSyW-eDyjgNoq8JBrFDfK2Wkl-9zwqtI7dgFalDhN3TJe3BEa6J92IrT-c-i7tXD4-IChkRjUIyIWH_jqqoyejVXX2W8CJBpWPdlnEDyapUEedc9eJVp8qufQdtBqMBOI4oK1AzcBKrwStCecXeZp/_roCKizjWaNnXgwAaU-9GIm-FDStqBYo7eC-SI6qgio),Ideação,"Tipo 5: Inovação Aberta e Co-criação,Tipo 4: Processos Deliberativos e de Priorização.",Serious Games são jogos com cenários e escolhas que fazem cidadãos e cidadãs priorizarem opções e prioridades. O método registra decisões e justificativas de forma comparável para gerar achados e recomendações de auditoria.,"Produzir evidência experiencial estruturada e comparável a partir de escolhas e justificativas de cidadãos e cidadãs sobre alternativas de política ou serviço, para levantar hipóteses auditáveis, definir prioridades e gerar recomendações.","Para coletar preferências informadas em temas complexos, quando você precisa que o cidadão compare opções com consequências e gere escolhas registráveis.",Não recomendado quando o jogo depender de dados pessoais ou quando não houver facilitação neutra e protocolo de registro.,Cidadãos e cidadãs afetados pelo tema e usuários do serviço. Deve-se prever nivelamento e mediação para reduzir disparidade de conhecimento e de prototipagem.,Explicita prioridades  e valores. Aumenta engajamento com registro estruturado. Permite comparar escolhas entre sessões.,Resultado pode refletir desenho ruim do jogo. Risco de indução por facilitação. Precisa versionar regras e cartas.,Médio–Alto,"Facilitação de dinâmicas lúdicas
+Capacidade de conduzir o jogo de forma clara e neutra, explicando regras, mantendo engajamento e garantindo participação equilibrada durante as rodadas.
 
-01 Pessoa para Observação e registro.
+Design de mecânicas de decisão
+Habilidade para estruturar cenários, opções comparáveis e regras do jogo que representem o problema público de forma simples e compreensível.
 
-01 Apoio de dados para consolidar base.","236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253","https://ieeexplore.ieee.org/document/11168438 https://repositorio.usp.br/directbitstream/830c22d4-1ad1-4d08-9f89-a8a6d7d8c5bd/Serious_games_research_streams_for_social_change_critical_review_and_framing..pdf 
+Observação e registro estruturado
+Capacidade de observar interações, registrar escolhas e justificativas e garantir completude e consistência dos dados gerados no jogo.
+
+Gestão de vieses e neutralidade
+Habilidade para evitar indução de respostas, controlar influência da facilitação e assegurar que as decisões reflitam as preferências dos participantes.
+
+Síntese analítica de escolhas e trade-offs
+Capacidade de analisar padrões nas decisões e justificativas dos participantes para gerar hipóteses auditáveis, prioridades e recomendações.","236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,253","https://ieeexplore.ieee.org/document/11168438 https://repositorio.usp.br/directbitstream/830c22d4-1ad1-4d08-9f89-a8a6d7d8c5bd/Serious_games_research_streams_for_social_change_critical_review_and_framing..pdf 
 
 https://www.researchgate.net/profile/Michela-Ott/publication/257022186_Designing_serious_games_for_education_From_pedagogical_principles_to_game_mechanisms/links/0046352433678d8895000000/Designing-serious-games-for-education-From-pedagogical-principles-to-game-mechanisms?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19&__cf_chl_tk=e1TW7lTyrQJ6A1p6iNhdrlJ.Os0X6d5ubWvT03gN6qQ-1772127483-1.0.1.1-OVXy8yvdHjSiAPHH79hqAFNnMUxYhn1OjxsPXx.hbaE",[Em construção],10–30 cidadãos por sessão.,Base de escolhas por rodada. Justificativas curtas. Log de versões. Achados e hipóteses auditáveis. Pedidos de evidência e recomendações.,2–4 horas,Híbrido,,
-M018,Living Labs,ef80d38b-d214-45b2-b1d1-8ef74d9563e0.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/kNgrpRQP2zfgl_f-buinyw/B8UtDJs0IOm0U0zlXS9WML0F7cIqV7FBkqyhIK-cYdxqVfa50JYefaAOk4Ou3YVqsjZxRGElNZnVNGMlpu9AN-LP1MVkUYrvPPi-K7Hn9E7JMDqhUhYvvqpjrkh1zkDxYwK6hYo_WVLKc07HcbQUSol9QQT2lecaFL_b7C2sd3EbhVH9EZ7s2QMLqW0rzo34/wKUP7fQi4mj2AYspNV_lqsNGpswZTLuCsLGphzXmERs),Implementação,Tipo 5: Inovação Aberta e Co-criação,"Living Lab é um ciclo de experimentação em ambiente real em que cidadãos e cidadãs testam protótipos de melhoria de um serviço, com registro de evidência antes e depois. O resultado vira achados, pedidos de evidência e recomendações ao órgão executor.","Produzir evidência experiencial estruturada e comparável a partir de escolhas e justificativas de cidadãos e cidadãs sobre alternativas de política ou serviço, para levantar hipóteses auditáveis, definir prioridades e gerar recomendações.","Para testar, em pequena escala, alternativas concretas de melhoria quando a auditoria precisa de evidência prática do que funciona e do que não funciona.","Não recomendado quando não existe local real para testar, quando o risco operacional é alto, ou quando o órgão responsável não consegue executar um piloto mínimo.","Cidadãos e cidadãs usuários do serviço no território de teste, incluindo perfis com barreiras de acesso. Requer mediação e acessibilidade.",Gera evidência por teste real. Explicita trade-offs e limitações. Produz recomendações mais executáveis.,Pode ser interpretado como “resolver o serviço”. Exige governança de dados e controle de mudanças. Risco de piloto sem comparabilidade se mudar regra sem versionar.,Alto,"1 pessoa coordenadora de Living Lab / facilitadora de experimentação
+M018,Laboratório Vivo de Inovação Pública (Living Labs),ef80d38b-d214-45b2-b1d1-8ef74d9563e0.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/DYSh8wFOME-HbYBeRb8Zjw/l8TTZEyVX2iDv-ThqV4rrhmT5nvQXc9XWQtQpfk4-GC-Y0xOmfBRVwIh1joJXRVrN7EFR2WJFT9R4oJRDwrsVo7jbjH6Ekgf5PdNRbAVjypTni4Hpq5wwbk-0ipDnkhZknsHTgCr4pasFMeitQvGFGnnx8DomNpVWkJLXTZwNQgJXTBA67yWVaiwvySIyjn4/byLJlnmO6do3Y-IWIr53qJ36P4xbDPT6yvhkz6j4As4),Implementação,Tipo 5: Inovação Aberta e Co-criação,"Living Lab é um ciclo de experimentação em ambiente real em que cidadãos e cidadãs testam protótipos de melhoria de um serviço, com registro de evidência antes e depois. O resultado vira achados, pedidos de evidência e recomendações ao órgão executor.","Produzir evidência experiencial estruturada e comparável a partir de escolhas e justificativas de cidadãos e cidadãs sobre alternativas de política ou serviço, para levantar hipóteses auditáveis, definir prioridades e gerar recomendações.","Para testar, em pequena escala, alternativas concretas de melhoria quando a auditoria precisa de evidência prática do que funciona e do que não funciona.","Não recomendado quando não existe local real para testar, quando o risco operacional é alto, ou quando o órgão responsável não consegue executar um piloto mínimo.","Cidadãos e cidadãs usuários do serviço no território de teste, incluindo perfis com barreiras de acesso. Requer mediação e acessibilidade.",Gera evidência por teste real. Explicita trade-offs e limitações. Produz recomendações mais executáveis.,Pode ser interpretado como “resolver o serviço”. Exige governança de dados e controle de mudanças. Risco de piloto sem comparabilidade se mudar regra sem versionar.,Alto,"Facilitação de processos de co-criação
+Capacidade de conduzir atividades colaborativas entre diferentes atores (cidadãos, gestores públicos, especialistas), estimulando troca de perspectivas, construção coletiva de ideias e ambiente de confiança para experimentação.
 
-1 pessoa responsável por design de serviço ou design de políticas
+Compreensão da experiência do usuário (empatia aplicada)
+Habilidade para observar, escutar e interpretar a experiência concreta de quem utiliza um serviço público, identificando barreiras, frustrações e oportunidades de melhoria que não aparecem nos dados administrativos.
 
-1 pessoa responsável pela articulação com participantes e parceiros
+Prototipagem e experimentação de soluções
+Capacidade de transformar ideias em protótipos simples e testáveis (fluxos, processos, serviços), permitindo que participantes experimentem melhorias em pequena escala antes de decisões institucionais mais amplas.
 
-1 pessoa analista de pesquisa qualitativa
+Articulação e mediação entre atores diversos
+Habilidade para conectar instituições públicas, sociedade civil, especialistas e usuários do serviço, equilibrando expectativas e interesses para manter o processo colaborativo produtivo.
 
-1 pessoa responsável por registro e documentação da experimentação
-
-1 pessoa responsável por comunicação e devolutiva","254,255,256,257,258,259,260,261,262,263,264,265,266,267,268","ORGANISATION FOR ECONIC CO-OPERATION AND DEVELOPMENT (OECD). Federal Crowdsourcing and Citizen Science Toolkit. Paris: OECD Observatory of Public Sector Innovation, 2015. Disponível em: oecd-opsi.org/toolkits/federal-crowdsourcing-and-citizen-science-toolkit/. Acesso em: 27 fev. 2026.",[Em construção],20–60 cidadãos por ciclo.,Linha de base. Protocolo do teste. Base de avaliação com trilha de evidência. Achados e recomendações com plano de acompanhamento.,2–6 semanas,Híbrido,,
-M019,Contribuição Colaborativa (Crowdsourcing),44f19643-ae22-4cd7-b6bf-294af2df77cc.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/8LmYJGA1LJBGpXYEN57-_Q/5QYVFAJT6TcWgLWJW7nOk0aUCrg7j4fB-vCyhTWFdRpJfohX3IVtZOVxGz0xDBEPqvJF0QHHvotvd3EABlj6oijY0gJL3E42JwQVvBEKKFekDp2VFQLvwjH-YYXzhFd6m-oIk0N6TZtfPU5dDc1e6T5clTXv-xAkX9IDF637sETdc6OOe7bv93_u4WnpT2sP/Ym5FnH5hLztlVKq8JyNOULEoZG1Z66Graoq4UNAfkSU),Ideação,Tipo 5: Inovação Aberta e Co-criação,"Crowdsourcing é uma chamada aberta para que cidadãos e cidadãs contribuam com informações, evidências, microtarefas ou soluções para um problema público. Quando bem desenhado, o método gera registros estruturados, comparáveis e exportáveis, úteis para produzir achados, hipóteses auditáveis, pedidos de evidência e recomendações. ","Coletar contribuições estruturadas em escala, com taxonomia e regras de qualidade, para identificar padrões, riscos e prioridades, gerando hipóteses auditáveis, pedidos de evidência e recomendações com devolutiva.","Para ampliar capilaridade e coletar evidência em escala, quando a equipe precisa de contribuição cidadã estruturada para identificar padrões, riscos e prioridades.","Não recomendado quando há risco alto de exposição por dados sensíveis, quando não há capacidade de moderação, curadoria e validação por amostras, ou quando não há compromisso de devolutiva e encaminhamento.","Cidadãos e cidadãs afetados pelo tema e usuários do serviço. Deve-se prever acessibilidade, linguagem simples e participação assistida quando houver barreira digital.",Aumenta alcance e volume de evidências. Permite capturar padrões territoriais e por etapa da jornada. Gera base exportável e rastreável quando há taxonomia e log.,Qualidade variável e vieses de autoseleção. Risco de duplicidade e ruído sem curadoria. Risco de reidentificação se houver localização ou detalhes sensíveis. Frustração se não houver devolutiva e encaminhamento.,Médio–Alto,"**Facilitação de processos participativos**
+Sistematização de aprendizados e evidências
+Capacidade de registrar observações da experimentação, identificar padrões de funcionamento ou falha das soluções testadas e traduzir os aprendizados em recomendações úteis para a auditoria ou melhoria do serviço público.","254,255,256,257,258,259,260,261,262,263,264,265,266,267,268","ORGANISATION FOR ECONIC CO-OPERATION AND DEVELOPMENT (OECD). Federal Crowdsourcing and Citizen Science Toolkit. Paris: OECD Observatory of Public Sector Innovation, 2015. Disponível em: oecd-opsi.org/toolkits/federal-crowdsourcing-and-citizen-science-toolkit/. Acesso em: 27 fev. 2026.",[Em construção],20–60 cidadãos por ciclo.,Linha de base. Protocolo do teste. Base de avaliação com trilha de evidência. Achados e recomendações com plano de acompanhamento.,2–6 semanas,Híbrido,,
+M019,Contribuição Colaborativa (Crowdsourcing),44f19643-ae22-4cd7-b6bf-294af2df77cc.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/F_DjI1y9fnqaI7o-rhBC4w/gqwYF8uUlT6lgXSZ3RKwMNrQkqQowcFJnd1bQC5q59ygdRPDhpRXITDApzBmh9wdwsJnlbuhC_WFoGZ3y8NzxJ9U-suFQJcLmnVUJ28KSz3LfM8aFsd0sMy4fQ5SxjwpjJymeuHvzl1iHqbK3SlZCn2y0eb-DJczO2_vbMsSKPJSzdnYAubeZpsIWwlSeD0M/82YmS19HOkFx3Y-EePMl0gTsCms4tZaak-YQJQbocck),Ideação,Tipo 5: Inovação Aberta e Co-criação,"Crowdsourcing é uma chamada aberta para que cidadãos e cidadãs contribuam com informações, evidências, microtarefas ou soluções para um problema público. Quando bem desenhado, o método gera registros estruturados, comparáveis e exportáveis, úteis para produzir achados, hipóteses auditáveis, pedidos de evidência e recomendações. ","Coletar contribuições estruturadas em escala, com taxonomia e regras de qualidade, para identificar padrões, riscos e prioridades, gerando hipóteses auditáveis, pedidos de evidência e recomendações com devolutiva.","Para ampliar capilaridade e coletar evidência em escala, quando a equipe precisa de contribuição cidadã estruturada para identificar padrões, riscos e prioridades.","Não recomendado quando há risco alto de exposição por dados sensíveis, quando não há capacidade de moderação, curadoria e validação por amostras, ou quando não há compromisso de devolutiva e encaminhamento.","Cidadãos e cidadãs afetados pelo tema e usuários do serviço. Deve-se prever acessibilidade, linguagem simples e participação assistida quando houver barreira digital.",Aumenta alcance e volume de evidências. Permite capturar padrões territoriais e por etapa da jornada. Gera base exportável e rastreável quando há taxonomia e log.,Qualidade variável e vieses de autoseleção. Risco de duplicidade e ruído sem curadoria. Risco de reidentificação se houver localização ou detalhes sensíveis. Frustração se não houver devolutiva e encaminhamento.,Médio–Alto,"**Facilitação de processos participativos**
 Capacidade de estruturar e conduzir processos de escuta coletiva, formular perguntas públicas claras e organizar canais acessíveis para participação de cidadãs e cidadãos.
 
 **Desenho de processos de participação digital**
@@ -903,7 +979,7 @@ Síntese de padrões e limites.
 Lista priorizada de riscos e temas.
 
 Pedidos de evidência e recomendações.",2–6 semanas,Híbrido,,
-M020,Mapa Colaborativo (Crowdmapping) Intermediado por OSCs,a9c85a18-319d-4d3f-b830-943e50ae8752.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/hTYMTjAZ-dPyK7HSOd4Frg/IqoTq_NuveSrs4TN8s5P2P4Vt5tuBpuEsAHG1ms5s-2jtfMbMIQZtqMclxSpIZi7KYAm_AuHUvQxqXqTyNR5bQMyF74PRjwF5XfLcDj_j7akyTT36WX1fVzR05GcGHRGziFPFau_CvV5nTnsOSZx_SGm2020vhciayw3NeMr_z8i6JwZJpNVvbSTK8pxtcmj/YAQ_-dkqPSLBuxjDx5jiI9LAdBGBFYOAD67ihU28unw),Inspiração,Tipo 3: Monitoramento Cívico e Ciência Cidadã,"O **mapa colaborativo (crowdmapping) intermediado por organizações da sociedade civil (OSCs)** é uma técnica sociotécnica de escuta territorial que combina registro colaborativo de ocorrências georreferenciadas com curadoria institucional realizada por organizações intermediárias.
+M020,Mapa Colaborativo (Crowdmapping) Intermediado por OSCs,a9c85a18-319d-4d3f-b830-943e50ae8752.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/HRb50UieKBdMv1tVjrGOoQ/-be9XM-oxunrqXp87-RLtbb13FKTeuYWQgDVVXmOrJih6Kk1bvlK0eouJs7AuhJwo0ng-AHw6_zcesSep0XQZpCEaXC7yRNn0e10Xcq1CkKX3OEPhDlGxSHklEWzlwMG2d7p5ld8O5rAhYGNwiL5KNgYLggNBnKghJLex2_OpfPj_WuwDbZyP4kj7ddqceY5/JeP30RYEE3tBikyYsWN1sJkVlnkyV9PzCxCtCpmGThA),Inspiração,Tipo 3: Monitoramento Cívico e Ciência Cidadã,"O **mapa colaborativo (crowdmapping) intermediado por organizações da sociedade civil (OSCs)** é uma técnica sociotécnica de escuta territorial que combina registro colaborativo de ocorrências georreferenciadas com curadoria institucional realizada por organizações intermediárias.
 
 A metodologia permite que cidadãs e cidadãos, comunidades e redes locais registrem situações observadas em determinado território. Esses registros podem incluir relatos, imagens, documentos ou outras informações associadas a um local específico em um mapa digital.
 
@@ -973,11 +1049,24 @@ Lista priorizada de pontos, rotas e áreas com justificativa por risco.
 Relatório de insights e percepções com triangulação e plano de devolutiva e resposta institucional.","Varia conforme o ciclo de auditoria e o nível de maturidade. 
 
 Normalmente tem fase de desenho e implantação e depois funciona em ciclos de coleta, ajuste e nova rodada.",Híbrido,,
-M021,Auditoria Cidadã,20daa2b7-8068-4639-9ab8-deff2f964ab8.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/sS4nbFPaVHUNr1xIuJZCcQ/vYfm3j2TwaEXujsCuZyK4Mz6FcwnnsZOMPOlRT2X77WfMEhB2FCw_bt5kVmg0idhwTFDD177ITUnxS-aAKa41gQOm3TgAVETrdVsQ4pBK34hUMEL10aixGrHyRCCNGf85H5OmYKOlcshR0bGpJ3_z2x7wv7lQwwjPMPmGXuoIRIJIY0W2TTA_c5MXMIlXhth/Np45PzQrx8p3OsD47RJIEW_QAAejBZnY250IwvS4NSE),Implementação,"Tipo 3: Monitoramento Cívico e Ciência Cidadã,Tipo 5: Inovação Aberta e Co-criação","Auditoria Cidadã é um ciclo em que cidadãos e cidadãs atuam como auditores, com capacitação e instrumentos simples, para verificar um serviço, obra ou programa com base em documentos, visita de campo e pontuação por indicadores. O método gera achados verificáveis e recomendações direcionadas ao órgão responsável, com evidência rastreável.","Permitir que cidadãos e cidadãs atuem como auditores em um ciclo de verificação com indicadores, documentos e campo, produzindo achados verificáveis e recomendações ao órgão responsável com evidência rastreável.","Para verificar, com evidência de campo, se a entrega do serviço ou obra corresponde ao que foi previsto e se a experiência do usuário revela falhas recorrentes que precisam virar recomendação. Para comparar “esperado versus observado” com indicadores e evidência mínima.","Não é indicado quando não há acesso mínimo a documentos e ao local para verificação. Não é indicado quando o risco de exposição ou retaliação é alto e não há protocolo de segurança e reserva. Não é indicado quando não há capacidade de facilitação e consolidação, porque a coleta vira relato solto.",Cidadãos e cidadãs afetados pelo serviço ou território. Deve incluir perfis com barreiras de acesso. Requer capacitação curta para registro objetivo e regras claras do que entra como evidência.,"Produz evidência de campo com método e rastreabilidade. Converte experiência em achado verificável. Aumenta legitimidade quando há critérios, scorecards e interface com o órgão.","Exige capacitação e facilitação para evitar “achismo”. Pode gerar expectativa de solução imediata se não houver devolutiva clara. Risco de exposição se não houver regras de privacidade e segurança. Qualidade varia se não houver checklist, evidência mínima e curadoria.",Alto,Áreas focais de auditoria. Facilitação. Equipe de registro e consolidação. Apoio jurídico e governança de dados. Ponto focal do órgão para acesso a documentos e apoio na visita.,"302,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336","
+M021,Auditoria Cidadã,20daa2b7-8068-4639-9ab8-deff2f964ab8.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/33S5TtDjfuS--ja89hATmQ/r-DioPv5i3gX6OihqkeDtPPfjE2QXqdNT_m7So-gkw9qM9CSh2QO2p0XrssSHh1FLsyf_Jj81p-9MdIU-FZ3TQFyFDHX01bDQ6INSGQbI2ADSRx5RmsFTvSW7XfEIny0fz9FHCylOl2JygkdQ8tJOHjjRkyIxTjMEr2q-iVO9Ed_a2TQAWiUHAn0p8OwwzOu/iPVmv_gu558QdxlRi2cD24w8wvVPK2_f0UfsjdjzItM),Implementação,"Tipo 3: Monitoramento Cívico e Ciência Cidadã,Tipo 5: Inovação Aberta e Co-criação","Auditoria Cidadã é um ciclo em que cidadãos e cidadãs atuam como auditores, com capacitação e instrumentos simples, para verificar um serviço, obra ou programa com base em documentos, visita de campo e pontuação por indicadores. O método gera achados verificáveis e recomendações direcionadas ao órgão responsável, com evidência rastreável.","Permitir que cidadãos e cidadãs atuem como auditores em um ciclo de verificação com indicadores, documentos e campo, produzindo achados verificáveis e recomendações ao órgão responsável com evidência rastreável.","Para verificar, com evidência de campo, se a entrega do serviço ou obra corresponde ao que foi previsto e se a experiência do usuário revela falhas recorrentes que precisam virar recomendação. Para comparar “esperado versus observado” com indicadores e evidência mínima.","Não é indicado quando não há acesso mínimo a documentos e ao local para verificação. Não é indicado quando o risco de exposição ou retaliação é alto e não há protocolo de segurança e reserva. Não é indicado quando não há capacidade de facilitação e consolidação, porque a coleta vira relato solto.",Cidadãos e cidadãs afetados pelo serviço ou território. Deve incluir perfis com barreiras de acesso. Requer capacitação curta para registro objetivo e regras claras do que entra como evidência.,"Produz evidência de campo com método e rastreabilidade. Converte experiência em achado verificável. Aumenta legitimidade quando há critérios, scorecards e interface com o órgão.","Exige capacitação e facilitação para evitar “achismo”. Pode gerar expectativa de solução imediata se não houver devolutiva clara. Risco de exposição se não houver regras de privacidade e segurança. Qualidade varia se não houver checklist, evidência mínima e curadoria.",Alto,"Facilitação de processos participativos
+Capacidade de conduzir cidadãos e cidadãs no processo de verificação, garantir compreensão comum dos critérios e manter o foco no método durante discussões e visitas de campo.
+
+Leitura crítica de documentos e indicadores
+Habilidade para interpretar documentos administrativos, contratos, normas e indicadores, identificando o que deve ser comparado entre o “esperado” e o “observado”.
+
+Coleta e registro de evidências
+Capacidade de orientar o registro estruturado de observações de campo (fotos, notas, documentos), garantindo evidência mínima e rastreabilidade dos achados.
+
+Análise comparativa (esperado vs. observado)
+Habilidade para comparar o que foi previsto em documentos ou indicadores com o que é encontrado na prática, transformando percepções em achados verificáveis.
+
+Síntese e formulação de recomendações
+Capacidade de organizar os achados em uma síntese clara, com trilha de evidência, e formular recomendações objetivas ao órgão responsável.","302,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336","
 BHUTAN TRANSPARENCY INITIATIVE. Hand Book on Citizens’ Participatory Audit (CPA). Thimphu: Bhutan Transparency Initiative, 2024. Disponível em: csogrant.bt/wp-content/uploads/2024/03/citizen-handbook-Manual.pdf. Acesso em: 27 fev. 2026.
 WORLD BANK. Citizen Participatory Audit in the Philippines: Pilot Phase I (2012–2014). Washington, DC: World Bank, 2019. Disponível em: documents1.worldbank.org/curated/en/995101557837621617/pdf/Citizen-Participatory-Audit-in-the-Philippines-Pilot-Phase-I-2012-2014.pdf. Acesso em: 27 fev. 2026.
 ENVIRONMENTAL AUDITING RESEARCHERS. Citizen Participatory Audit. [s.l.]: [s.n.], 2022. Disponível em: environmental-auditing.org/media/117686/citizen-participatory-audit.pdf. Acesso em: 27 fev. 2026.",evidência de campo; scorecards; triangulação; interface; plano de ação; devolutiva; amostragem por risco,15–40 cidadãos e cidadãs,"Dossiê documental mínimo. Matriz de rastreio (esperado versus observado). Registros de campo com evidência mínima. Scorecards por indicador. Síntese de achados com trilha de evidência. Recomendações e pedidos de evidência ao órgão, com plano de acompanhamento.",2–3 dias,Presencial,,
-M022,Escuta Etnográfica,e5bd56c9-0c08-4a42-997e-73e143d673bf.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/VRcX2t_G--UNua2N2GYIBw/D5ljzutqHY4fQ-7z-z_7SVCjtDYbFpBwc7NO7yDUt2mIS08l9zKVSNEJTxMqFQsCwXeXN9Yj2zSBDpYuyWSynxqaP6z-gYgRWxYFKuRI4MEyIdNEdiu4ZRY_oueeiyGtz9xNU0WnPq8rIOO30gbjTUmPowUiN5uW2Gay4OfjmeVHQgoNQsznr9RId7b7WIRR/Pi13SLOcnSRJbYYCnbbDj7xJ6-QxdFYA5R4zYRyC_t8),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"A **Escuta Etnográfica** é uma técnica de investigação social baseada em **imersão no contexto real das pessoas, observação do cotidiano e escuta aprofundada de narrativas sobre experiências vividas**.
+M022,Escuta Etnográfica,e5bd56c9-0c08-4a42-997e-73e143d673bf.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/jLVYDPGAgpX0aeopvCp0Ig/jEY3RiC6T0cCWGQ0Nc6-nnymRgTVzWlcc-87ALEo5KXuRAV1mhSwxXi1HSWNi7AbUoSNUCDqcm4cIBqocojSFwa_mdrE4LNn5M9Ew3ntJ6pzZRE2i_8fcDzVB_8Avu8HEzs6KSZKfkaQXmqdG7jJesimNsCV3Xng0MLPRrIpucW_RMu7rJsMyhwNYWZLMl3P/SZlsYulQznRU6blROry-mUTy4r3ku6U_33bVcQ57xkA),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"A **Escuta Etnográfica** é uma técnica de investigação social baseada em **imersão no contexto real das pessoas, observação do cotidiano e escuta aprofundada de narrativas sobre experiências vividas**.
 
 A metodologia combina aproximação direta com participantes e análise qualitativa para compreender como problemas públicos aparecem na prática. Em vez de se apoiar apenas em documentos, indicadores ou consultas formais, a Escuta Etnográfica busca captar **rotinas, relações, significados e estratégias que estruturam a experiência das pessoas no dia a dia**.
 
@@ -1074,7 +1163,7 @@ Ficha de consentimento e aviso de privacidade.
 Ficha de registro e notas de campo.
 
 Modelo de síntese de padrões e tabela de hipóteses a confirmar.",
-M023,Café Mundial,Cafe Mundial.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/4UoRKTluRdpQQw2Kl2hZ-A/YBwVUTK8lkRfTeyEowMt75dO16PTqEQcCYJxeKWkeCS5cjginP1k7m_vA6Hs-4Q-XXMaVKfeWhcHTYREO3ZIkgk_zpv5_Dj5lXrpeNJeXi8tJwTwEXekylyQ-WmDHpSFNbGguqRT-39UMVZOSR9gHpZnmvbSkcGXPv0jcNJMp-E/Z0kD6gqly1kv0C5alqI2uUWjzZKa_ewztXCE-ioEcD8),Inspiração,Tipo 2: Consultas Públicas e Diálogo,"O Café Mundial é uma técnica estruturada de diálogo coletivo que organiza conversas em pequenos grupos rotativos para explorar questões complexas e produzir inteligência compartilhada.
+M023,Café Mundial,Cafe Mundial.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/xdn3yWqQKO--YEP2d5_1EA/A5g_2kWKnIi_-X5ZFIwGpdRKWQgIQSA2f8sI6kqAk693Qrw9eJmSk96W_yoEwD973Wpt81t0YnJFgzeVbx_RMCY8XJspU3lDOjZ3DJdkiDBcSQ36sDgyyaTltrLkghwFVeEqSKIhizYHyzd1YIxyKPjgamuUS_GObgrL-at-qLI/clbOyQspDlHrmuYyqIFsLNZ2zRyn96inJEdeejUTv58),Inspiração,Tipo 2: Consultas Públicas e Diálogo,"O Café Mundial é uma técnica estruturada de diálogo coletivo que organiza conversas em pequenos grupos rotativos para explorar questões complexas e produzir inteligência compartilhada.
 
 A metodologia combina desenho intencional de perguntas com dinâmica de rodadas sucessivas, permitindo que ideias circulem entre mesas e que padrões emergentes sejam identificados a partir da interação entre diferentes participantes.
 
@@ -1133,16 +1222,20 @@ Outro limite está na rastreabilidade. Se as ideias circulam entre mesas sem reg
 
 Por fim, o método pode gerar expectativa nas pessoas participantes. Se o diálogo não se traduz em devolutiva clara ou implicação prática, pode haver frustração e redução de confiança institucional.
 
-O Café Mundial exige preparação, desenho cuidadoso de perguntas, registro estruturado e análise posterior rigorosa. Sem esses elementos, seu potencial analítico se reduz",Baixo,"Para até 24 participantes
-1 facilitador principal
-4 a 6 anfitriões de mesa
-1 pessoa responsável por registro consolidado
+O Café Mundial exige preparação, desenho cuidadoso de perguntas, registro estruturado e análise posterior rigorosa. Sem esses elementos, seu potencial analítico se reduz",Baixo,"Facilitação de diálogo coletivo
+Capacidade de conduzir conversas em pequenos grupos, manter foco na pergunta orientadora e criar ambiente seguro de escuta e respeito entre participantes.
 
-Para grupos maiores
-1 facilitador principal
-1 cofacilitador
-1 anfitrião por mesa
-2 pessoas para registro e apoio logístico","365,366,367,368,369,370,371,372,373,374,375,376","BROWN, Juanita; ISAACS, David. O World Café: dando forma ao nosso futuro por meio de conversas que importam. São Paulo: Cultrix, 2007.
+Formulação de perguntas orientadoras
+Habilidade para transformar problemas públicos complexos em perguntas claras, abertas e compreensíveis, capazes de gerar relatos de experiência concreta.
+
+Escuta ativa e sensibilidade relacional
+Capacidade de ouvir atentamente diferentes perspectivas, reconhecer nuances nas falas e acolher contribuições diversas sem julgamento.
+
+Gestão da dinâmica de participação
+Habilidade para equilibrar o tempo de fala, incentivar participação de pessoas mais silenciosas e evitar que vozes dominantes conduzam a conversa.
+
+Síntese coletiva e identificação de padrões
+Capacidade de organizar contribuições dispersas, identificar convergências, tensões e lacunas nas discussões e apoiar a sistematização posterior das evidências.","365,366,367,368,369,370,371,372,373,374,375,376","BROWN, Juanita; ISAACS, David. O World Café: dando forma ao nosso futuro por meio de conversas que importam. São Paulo: Cultrix, 2007.
 ",,12 - 120 participantes,"O Café Mundial produz entregáveis qualitativos estruturados a partir de diálogo coletivo organizado.
 
 O primeiro entregável consiste no registro consolidado das conversas. As contribuições de cada rodada são sistematizadas por pergunta orientadora, com identificação de padrões recorrentes, convergências entre mesas e divergências relevantes. Esse material deve preservar rastreabilidade mínima do percurso da discussão, ainda que não identifique autoria individual.
@@ -1158,7 +1251,7 @@ LÖHR, Katharina; WEIBEL, Antoinette; LANDERT, Daniela. The World Café as a par
 https://journals.sagepub.com/doi/pdf/10.1177/1609406920916976
 
 "
-M024,Codesign Etnográfico,Codesign Etnográfico.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/QwO5DpWbUJVqojNM3ubSHQ/8cvX0IjyPgMJbqd3eV89wCR_Z3Jalgfh7md42jeV43ClmoJXlzyEv36up1VCWLtKBuADdLEXz31Mg6FnTOdFHkwQW6hS46EZ0lEjDcPiQv6LcJeZLKYhFExAYOUg2YAvmXqxn-6d9IHD5nTJ21WY9GA6vORZvgl6k11kYKYV_Dk/qons0QPIFbdDPpd9bSXLnjGs7OMc69FnJEQzmNu8onA),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"O **Codesign Etnográfico** é uma técnica sociotécnica de escuta profunda que combina **imersão etnográfica no cotidiano das pessoas com processos de cocriação de soluções**.
+M024,Codesign Etnográfico,Codesign Etnográfico.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/fVWzclEUst9v1n55ts216Q/yFJg8rN0U8S5ee-YekX7YcPvKHI6EMEAgIJRBAzfoUWrDgQkebbQySpR13lz8jT7flL2gg_QXmIpJ-AATc0-o3IzA7_Mk45jqgJ_Ybwz3IUOItQbZjArUMX529AiC_b70vqKH2aP0ML1mWmJ2c6RZ4Sss_424hYONiRj_J7MNqo/YzrbzyDL1_hLA9cWL1V1k3x-1UXgOzD63ygc9KQmKl8),Ideação,Tipo 6: Imersão e Experiência do Usuário,"O **Codesign Etnográfico** é uma técnica sociotécnica de escuta profunda que combina **imersão etnográfica no cotidiano das pessoas com processos de cocriação de soluções**.
 
 A metodologia integra observação direta, escuta narrativa e construção coletiva de respostas com quem vive o problema público. Em vez de partir de hipóteses institucionais sobre a realidade social, o método começa pela compreensão das práticas, relações e estratégias que as pessoas utilizam no dia a dia para lidar com dificuldades.
 
@@ -1257,7 +1350,7 @@ O terceiro entregável consiste em **insumos para redesenho institucional**. A p
 Outro entregável importante é o **registro do processo de cocriação**. Esse material documenta como participantes contribuíram para a construção de interpretações e possibilidades de resposta, garantindo transparência sobre o processo de escuta e aprendizagem institucional.
 
 Por fim, recomenda-se a elaboração de **devolutiva estruturada às pessoas participantes**. A devolutiva apresenta de forma clara o que foi compreendido a partir da imersão, quais aprendizados emergiram e como essas contribuições podem influenciar decisões institucionais futuras. Isso ajuda a fechar o ciclo da escuta e fortalece a confiança entre instituição e sociedade.",8-16 semanas,Presencial,,
-M025,Compromisso Cidadão,Compromisso Cidadão.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/BsnZwJThufBc_hCm1tqZiw/DRmOcqKLXeVdOz2F0ORSbgn3pXOGpygNVtc9NcPLP7dJ7rwLB5k4sE2phD1WX2OlYGfHW9DgszDMYCQF8IzGhls_FcQ6TVY6wPhTfU9BEQRZKlJcJ5w1dyjArNDXQfT6g6uVJU5cSrJ65O95nkT58P-xuOcqQgejJd8DjneZm5A/wJUhr9zpye-QdYYoMpqbCj2RLlZwlh2wnllCAdp2myc),Implementação,"Tipo 5: Inovação Aberta e Co-criação,Tipo 4: Processos Deliberativos e de Priorização.","O Compromisso Cidadão (CC) é uma técnica sociotécnica de governança colaborativa voltada à melhoria de políticas públicas e serviços à sociedade por meio de compromissos institucionais verificáveis.
+M025,Compromisso Cidadão,Compromisso Cidadão.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/DyT190tuxCYLYriPcmJP4g/crXsUi-9giWElCUklFJCXMpkJ2i52LGBcvR4mAEnbJAciUx6ybPEhhzKDxvIWNqYplL6hhLtBBYNo9hLGXsVIMdmBeUB6qrXT7b7qKk4AkoM1yNQfobt8Jg5hiLHvArwyzh3qH6F2s3oysZPRgGZzSEDONaoqvB4AgQ9ojzP0PY/HUY4e2qe_6z3hTywc-d5EYDnzn5KtWUP5bOeaQybELA),Implementação,"Tipo 5: Inovação Aberta e Co-criação,Tipo 4: Processos Deliberativos e de Priorização.","O Compromisso Cidadão (CC) é uma técnica sociotécnica de governança colaborativa voltada à melhoria de políticas públicas e serviços à sociedade por meio de compromissos institucionais verificáveis.
 
 A ferramenta estrutura pactos voluntários entre instituições públicas e atores relevantes para enfrentar problemas de governança que exigem coordenação entre múltiplas organizações.
 
@@ -1390,17 +1483,16 @@ O Compromisso Cidadão não substitui auditorias de conformidade nem processos s
 Risco de descontinuidade
 Sem monitoramento periódico, transparência pública e acompanhamento institucional, os compromissos assumidos podem perder prioridade ao longo do tempo.
 
-A mitigação desses riscos exige desenho metodológico claro, definição precisa de metas e indicadores e governança institucional para acompanhamento contínuo.",Alto,"1 pessoa facilitadora institucional
-Responsável por conduzir o processo de pactuação e articular as organizações participantes.
-
-1 a 2 pessoas analistas de auditoria ou governança
-Responsáveis por organizar evidências, estruturar metas e indicadores e apoiar o monitoramento dos compromissos.
-
-1 pessoa responsável por sistematização e análise
-Responsável por consolidar dados, produzir relatórios e organizar aprendizados do processo.
-
-1 pessoa de comunicação institucional (quando necessário)
-Responsável por apoiar divulgação, transparência e devolutiva pública.","377,378,379,380,381,382,383,384,385","ANSELL, Chris; GASH, Alison.
+A mitigação desses riscos exige desenho metodológico claro, definição precisa de metas e indicadores e governança institucional para acompanhamento contínuo.",Alto,"Análise de governança institucional
+ Capacidade de compreender como diferentes instituições se relacionam em torno de um problema público, identificando papéis, responsabilidades, lacunas de coordenação e pontos de alavanca para mudança.
+Facilitação de pactuação institucional
+ Habilidade para conduzir conversas entre organizações com interesses e responsabilidades diferentes, mantendo foco no problema público e na construção de soluções viáveis.
+Tradução de diagnósticos em compromissos operacionais
+ Capacidade de transformar diagnósticos complexos em compromissos claros, com responsáveis institucionais, prazos e indicadores verificáveis.
+Construção de indicadores e critérios de acompanhamento
+ Habilidade para definir indicadores simples e úteis, distinguindo entre acompanhamento da implementação das ações e avaliação de resultados para o cidadão.
+Síntese estratégica e comunicação institucional
+ Capacidade de organizar informações complexas em mensagens claras para diferentes públicos, incluindo autoridades institucionais, organizações participantes e sociedade.","377,378,379,380,381,382,383,384,385","ANSELL, Chris; GASH, Alison.
 Collaborative Governance in Theory and Practice. Journal of Public Administration Research and Theory, v. 18, n. 4, 2008.
 
 OECD.
@@ -1462,7 +1554,7 @@ Avaliação e aprendizagem institucional
 1 a 2 meses ao final do ciclo.
 
 O método pressupõe acompanhamento contínuo, permitindo ajustes e aprendizado ao longo da implementação.",Híbrido,,
-M026,Observação Participante,Observação Participante.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/e919SNCBxbIgFIwPcfhcJQ/ykcxJiYTz0yaZRie1TBildHd_g3p4Y_MJ08d5sSWrh2JcztuNqFm-fNt_gBmzmNxb-Q8vP9fW_i3cvalr2Cr_HSj7CeGBj-ne2fahsN2ynBVJdmH9ImDFUtpd6gvyyuJZwfOrYlaWQicN8zNb6TtwBvkjhUMLE5HjnJkCOTT840/z9cVDaqvIXQmdojHj7QbHmyI3eKlwQFKOD8m4hX5dQc),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"A Observação Participante é uma técnica de investigação social baseada na imersão da pessoa pesquisadora no contexto onde ocorre o fenômeno estudado.
+M026,Observação Participante,Observação Participante.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/SqYdkjI-cOAllw5Knd5oPA/XhCyhE513InmmU9-DqVSuCIxNQ5H3DFyV1huRIf67jBD700_Hjs8NBDbLHzkkqeYZ5KMXQOP0QPMqG3gL3BphJ03r6JlAkPonspwWvbczd-eH9FS8pwz0-8A_a6s9wA2D2F4Ak9IuxAh5l4nJ7wDVFl36Sk6F7kGjgb12X69PF8/_w2h_LQGtSpppwjYU4OuX0tq0u6ed32zCUzXG7Zlat0),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"A Observação Participante é uma técnica de investigação social baseada na imersão da pessoa pesquisadora no contexto onde ocorre o fenômeno estudado.
 
 A pessoa pesquisadora acompanha rotinas, interações e usos reais de serviços ou políticas públicas, registrando comportamentos, conversas e situações observadas no território.
 
@@ -1526,7 +1618,7 @@ O segundo entregável é uma **sistematização temática das observações**. O
 O terceiro entregável é uma **síntese analítica do contexto observado**. Esse documento apresenta os principais padrões identificados, descreve como as pessoas interagem com serviços ou políticas públicas no cotidiano e explicita fatores contextuais que influenciam essa experiência.
 
 Por fim, recomenda se uma **devolutiva institucional estruturada**. Essa devolutiva apresenta os principais aprendizados gerados pela observação, explicita limites da atuação institucional e informa possíveis desdobramentos do processo de escuta.",1-3 semanas,Presencial,,
-M027,Roda de Conversa,Roda de Conversa.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/Hit4k0Z5wrHfc8Kyg4lqWA/OLSM2JdinEHSvA1l2eBBmnuQvtwXuuzqb0YfTjHx9E5oAl65KQ4jnlf2Cq5VayGxNh-yXaj9z2Pues6bxQWJDHNcqqq6h9qGFXaMiqnO6atl_TKh3RxM2kTGC8h0VfzRcmyvaKEeTnv-9rG19-CPV97OsHZ_ss310FpS7BqtdMA/yFpUWUPW-ekYYeoZWeOY3USaVKMoA-XKBTP8dl3e2K8),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"Técnica qualitativa dialógica, de facilitação horizontal e estrutura leve, orientada à produção compartilhada de sentido, construção de vínculo e redução simbólica de hierarquias entre instituição e participantes.
+M027,Roda de Conversa,Roda de Conversa.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/FkkLpw7CUyBP-lPE9WhIMg/VeB4FlBMgnxzxheQoZoZy2LP0SDfCY_oiT0p8vKL5kVbOl2Xoz6fqRaG-BNWipkVXPJJZBhkWwdfc7WLhtNX3I4ecWUq4sfidzfD1ngC2K6GD4T84s667gINVbh2Ec3TOGV9k9bf6Q-Wr446qaHUp-WafEagG7_60WfwUuibSKw/YsSuZXBnaNHtqh-NeQYPhWEzuLHNmb2cbW0uRumV4oY),Inspiração,Tipo 6: Imersão e Experiência do Usuário,"Técnica qualitativa dialógica, de facilitação horizontal e estrutura leve, orientada à produção compartilhada de sentido, construção de vínculo e redução simbólica de hierarquias entre instituição e participantes.
 
 A metodologia combina facilitação horizontal, escuta ativa e registro sistemático para:
 
@@ -1598,12 +1690,20 @@ Existe ainda o risco de deslocamento de expectativa. Pessoas participantes podem
 
 Do ponto de vista probatório, a Roda não gera evidência estatística nem inferência populacional. Não substitui pesquisa amostral, auditoria técnica ou verificação normativa. Seu valor está na qualificação diagnóstica, não na generalização quantitativa.
 
-Por fim, há o risco de banalização. Se utilizada como ferramenta genérica para qualquer situação, perde potência estratégica. A Roda deve ser aplicada com clareza de propósito e integrada a um ciclo maior de análise e decisão.",Baixo,"01 pessoa facilitadora experiente em métodos participativos e condução dialógica.
-01 pessoa relatora ou analista de registro.
-01 pessoa responsável pela síntese e integração institucional.
-01 apoio logístico e de agendamento
+Por fim, há o risco de banalização. Se utilizada como ferramenta genérica para qualquer situação, perde potência estratégica. A Roda deve ser aplicada com clareza de propósito e integrada a um ciclo maior de análise e decisão.",Baixo,"Facilitação de diálogo horizontal
+Capacidade de conduzir conversas em formato circular, reduzindo hierarquias e criando ambiente de confiança para que pessoas participantes se sintam seguras para compartilhar experiências.
 
-","395,396,397,398,399,400,401,402,403,404,405","FREIRE, Paulo. Pedagogia do oprimido. 17. ed. Rio de Janeiro: Paz e Terra, 1987.
+Escuta ativa e sensibilidade social
+Saber ouvir atentamente relatos de experiência, reconhecer emoções, perceber nuances culturais e identificar temas relevantes que emergem espontaneamente na conversa.
+
+Formulação de perguntas abertas e acessíveis
+Habilidade para construir perguntas simples, compreensíveis e conectadas ao cotidiano das pessoas participantes, estimulando reflexão e participação.
+
+Gestão da dinâmica do grupo
+Equilibrar a participação entre pessoas mais falantes e mais silenciosas, evitar conflitos improdutivos e manter o foco da conversa no tema proposto.
+
+Síntese qualitativa de narrativas
+Capacidade de identificar padrões, tensões e percepções recorrentes nas falas, organizando os principais aprendizados para análise posterior da equipe de auditoria.","395,396,397,398,399,400,401,402,403,404,405","FREIRE, Paulo. Pedagogia do oprimido. 17. ed. Rio de Janeiro: Paz e Terra, 1987.
 
 IDEO.org. The field guide to human-centered design. 1. ed. San Francisco: IDEO.org, 2015. Disponível em: http://www.designkit.org/
 
@@ -1618,7 +1718,7 @@ O terceiro entregável é o registro metodológico da aplicação. Ele descreve 
 Por fim, recomenda-se uma devolutiva às pessoas participantes. A devolutiva apresenta, em linguagem clara, os principais aprendizados extraídos, os limites institucionais e os próximos passos previstos. Esse retorno é fundamental para reduzir frustração e fortalecer legitimidade.
 
 A Roda de Conversa não produz deliberação formal nem decisão colegiada. Seu valor está na geração de inteligência relacional e diagnóstica que qualifica as etapas seguintes do ciclo de auditoria ou formulação de políticas.",1h a 2h30,Híbrido,,
-M028,3Horizons Framework,3Horizons Framework.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/bY0BOmqR_Cwka4vXb4tCUw/FQtMKIOvd7JwVQLrvRUMeJe7_1BousbFM2C6IACoDaI8citKbnakIQ2YIuoQ-JkF6R0mwzGe5wn1xDBVoG-XMxp0wliQu_55O9oVtPYao0bHCcq-CNV_OP-vwimM5nhVZ2-vxf_hdP07D8BDbNjdLFsz760PHEcFaKTeCA303pY/lrMb_grgRGwLJFa5EvSn06A5wiXmxE3qNgMJe7Wn65Q),Ideação,"Tipo 4: Processos Deliberativos e de Priorização.,Tipo 5: Inovação Aberta e Co-criação","O Three Horizons Framework (3H) é uma técnica de foresight aplicada à investigação social e à transformação institucional que estrutura uma conversa analítica em três horizontes simultâneos: o sistema atual dominante, a transição em disputa e o futuro desejável em consolidação.
+M028,Método dos Três Horizontes (Three Horizons Framework),3Horizons Framework.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/ZWFILGKY5vabWEkCHUMFug/Q-_xyGebqvhqd9T8UZsreQ-95kcpRuZPDRSdJfp2F8M8E-efy9V8QVOWZzIf_wiF5u2opfi1178qtXjNwt0X3yYc-Lkup85hGqaOTG1v5U8vO5JicOtj_fS7Pl0ZYvueKhPjznAfuSicwyu4y1gTfLWE2J6FHj7kNwBRbe7hiuc/yiI5XIoqL_YUmjsknAc4Cw0Z3krywMaFZkL43I6u5Aw),Ideação,"Tipo 4: Processos Deliberativos e de Priorização.,Tipo 5: Inovação Aberta e Co-criação","O Three Horizons Framework (3H) é uma técnica de foresight aplicada à investigação social e à transformação institucional que estrutura uma conversa analítica em três horizontes simultâneos: o sistema atual dominante, a transição em disputa e o futuro desejável em consolidação.
 
 O método ajuda a diferenciar:
 
@@ -1699,13 +1799,20 @@ A técnica também depende de facilitação qualificada. Sem mediação adequada
 
 Existe ainda o risco de subestimar a importância do sistema atual. Em muitos contextos institucionais, o horizonte dominante continua sendo responsável pela entrega de serviços públicos. Ignorar essa dimensão pode gerar propostas de mudança desconectadas da realidade operacional.
 
-Por fim, o método não substitui instrumentos de planejamento ou avaliação. O Three Horizons Framework é uma ferramenta de análise estratégica e de reflexão coletiva. Para transformar os resultados em intervenção prática, geralmente é necessário combiná-lo com outros métodos de planejamento e implementação.",Médio–Alto,"1 pessoa facilitadora com experiência em métodos participativos ou processos de reflexão estratégica.
+Por fim, o método não substitui instrumentos de planejamento ou avaliação. O Three Horizons Framework é uma ferramenta de análise estratégica e de reflexão coletiva. Para transformar os resultados em intervenção prática, geralmente é necessário combiná-lo com outros métodos de planejamento e implementação.",Médio–Alto,"Facilitação de processos reflexivos
+Capacidade de conduzir discussões estruturadas sobre o funcionamento de sistemas públicos, organizando a conversa entre presente, transição e futuros possíveis sem perder foco analítico.
 
-1 pessoa responsável pelo registro visual ou sistematização da discussão, organizando as contribuições nos três horizontes.
+Escuta ativa e interpretação de experiências
+Saber ouvir atentamente relatos de cidadãs, cidadãos e pessoas gestoras, identificando percepções que revelam limites do sistema atual e sinais de mudança.
 
-1 suporte logístico para convite e gestão de participantes.
+Formulação de perguntas estratégicas
+Habilidade para fazer perguntas claras que ajudem participantes a refletir sobre como o sistema funciona hoje, quais tensões indicam mudança e que futuros poderiam resolver melhor o problema público.
 
-1 analista responsável por consolidar os resultados e produzir a síntese analítica.","386,387,388,389,390,391,392,393","SHARPE, Bill. Three Horizons: The Patterning of Hope. Axminster: Triarchy Press, 2013.
+Análise de sistemas institucionais
+Capacidade de compreender relações entre regras, incentivos, práticas administrativas e experiências sociais, identificando padrões que estruturam o funcionamento de políticas públicas.
+
+Síntese estratégica
+Habilidade para organizar evidências e percepções nos três horizontes e transformar a discussão em interpretação clara sobre limites do sistema atual e possíveis caminhos de transformação.","386,387,388,389,390,391,392,393","SHARPE, Bill. Three Horizons: The Patterning of Hope. Axminster: Triarchy Press, 2013.
 
 CURRY, Andrew; HODGSON, Anthony. Seeing in Multiple Horizons: Connecting Futures to Strategy. Journal of Futures Studies, v. 13, n. 1, 2008.
 
@@ -1716,7 +1823,7 @@ O segundo entregável é uma síntese analítica do sistema investigado. O docum
 O terceiro entregável consiste no registro das iniciativas e experiências associadas ao Horizonte 3. Essas experiências representam práticas ou soluções que já apontam para novos modelos de atuação e podem servir como referência para experimentação institucional.
 
 Quando aplicado em processos de escuta cidadã, recomenda se também produzir uma devolutiva estruturada às pessoas participantes, apresentando os principais aprendizados do processo e como essas contribuições poderão influenciar decisões futuras.",2h - 4h,Híbrido,https://www.h3uni.org/resource-library/tutorial/three-horizons,
-M029,Matriz de Priorização Participativa Multicritério (MPPM),Matriz de Priorização Participativa Multicritério.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/YSTcq7JESJzQQYzxcuDTJA/hjJZOKbEao4WFt4E42wB5m7oCFcm2YB1AZ5hHmHqda2L-36kwktxavFhgomEgZtfYzONi4vQQhfZQRY8m_I7J1jcGkuMRxXPb-hLNYxMUF9FtZX3Z7AWogIhyJTDe03pbWhf9uz1Uv3eG8DhvM82aYrlpYgN0djVeYkuLg4BCBkiUyYSqoZYlo5oFcSumJhHCAKHDk-t1Vnz5nF9VVYh5A/CvQ_-5ZJ2PSvXY2F48TLqVfIcAgr74WX48An19sKqVs),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"A **Matriz de Priorização Participativa Multicritério (MPPM)** é uma técnica de escuta estruturada utilizada para **comparar e priorizar problemas, propostas ou alternativas de ação com base em critérios compartilhados**.
+M029,Matriz de Priorização Participativa Multicritério (MPPM),Matriz de Priorização Participativa Multicritério.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/aOd3FnKTwTMI_91YeCsvWw/PWzGaH9hl_q0cRp9jxfjzDo4rfRgi9Jhv4Us6sHPKidgD-PYMcUY1AZawDyHZqdxeZXjuJ-QcCbklCa8OnOwTPPHiBy8VPxVT8c0UHiNd6QhoVmu6dn7KVmEXJRKZ3cUWsbzq_OaDx-iyqiCXD96nge6o-4GuB7euuTspPnXQqY3rzfzqjaSlohQZbW0gPoAVUuSlw_BXpSJL9KXsl4G8w/FGayM4efF5WCmJmnDMPMWaaruqregaUC92lUoE0nFVE),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"A **Matriz de Priorização Participativa Multicritério (MPPM)** é uma técnica de escuta estruturada utilizada para **comparar e priorizar problemas, propostas ou alternativas de ação com base em critérios compartilhados**.
 
 A metodologia combina deliberação coletiva com análise multicritério, permitindo que participantes avaliem diferentes opções considerando dimensões como impacto social, urgência, viabilidade, custo ou equidade.
 
@@ -1805,7 +1912,7 @@ O segundo entregável é uma **síntese de priorização**. Esse documento apres
 O terceiro entregável é um **registro metodológico do processo de priorização**. Esse registro descreve como os critérios foram definidos, como as alternativas foram comparadas e quais etapas foram utilizadas para chegar ao resultado final. Esse material contribui para a transparência institucional e permite que o processo seja compreendido e replicado em contextos semelhantes.
 
 Por fim, recomenda-se produzir uma **devolutiva estruturada às pessoas participantes**. A devolutiva apresenta a matriz final, explica como as prioridades foram definidas e indica como esse resultado poderá orientar decisões ou etapas posteriores do processo institucional. Isso reduz risco de frustração e fortalece a legitimidade da participação.",1-2 dias de trabalho.,Híbrido,,
-M030,Painel Deliberativo Híbrido (Deliberative Polling),Painel Deliberativo Híbrido.png (https://v5.airtableusercontent.com/v3/u/51/51/1773604800000/jarHga2EP6R595a1Wzrexg/u4BUDVb2T_PRhsbW7as7BqJNjl-WBNKJpCU--X6SEknmX9ZVcEBXhgO4uZ4jR9DBm17SdbpzuFDWRS0GJJj7CbLR0gVk4jvoxY_-1VzZ8VrexVtN4WUG_Gxpktw0OYDJoFQG5YB0aBcX-2wxL1NVUWjUTK89mk9SlYsq_XzAmf85p6KHpqmcYXQHp9fimFcm/_bHA_-SWzA709KHVEKrSM2cpz95tfT2PSXHpnzGLwyA),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"O **Painel Deliberativo Híbrido** é uma técnica de escuta cidadã estruturada que combina **amostragem representativa da população, informação equilibrada sobre um tema público e deliberação coletiva orientada por facilitação**.
+M030,Painel Deliberativo Híbrido (Deliberative Polling),Painel Deliberativo Híbrido.png (https://v5.airtableusercontent.com/v3/u/51/51/1773640800000/KZWu5eTxOFMikSHn4-ZrAQ/236_BE3ojwISNRoRGxRympQ_qnxSlHCZU-QAmpljkxP05scI4RWkuL7SZRgMZCxIEeNrmN_FTVwliasHyfkKVjW4O5BlWWDI0rMKGIwsl1ntsNIC8lWvMF7ZUkgH2L0R0gcJU4HgcUBE9HFnhYusbw-8ehTFoZeFtUHOmruWhoLQvodQOIZUVrudoCBHMNgJ/OfLCybgePNimsrH6qIWkhcVurE-CR4ALlk8wZWEntKc),Ideação,Tipo 4: Processos Deliberativos e de Priorização.,"O **Painel Deliberativo Híbrido** é uma técnica de escuta cidadã estruturada que combina **amostragem representativa da população, informação equilibrada sobre um tema público e deliberação coletiva orientada por facilitação**.
 
 A metodologia busca compreender **como a opinião pública pode evoluir quando cidadãs e cidadãos têm acesso a informação qualificada, tempo para reflexão e oportunidade de diálogo com outras pessoas e especialistas**.
 
