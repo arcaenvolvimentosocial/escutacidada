@@ -4,7 +4,8 @@ import { MetodoCard } from './components/metodo-card';
 import { MetodoDialog } from './components/metodo-dialog';
 import { CSVUploader } from './components/csv-uploader';
 import { Metodo } from './data/metodos';
-import { Search, BookOpen, AlertCircle } from 'lucide-react';
+import { Search, AlertCircle } from 'lucide-react';
+import logoEscuta from './assets/Ativo 15-8.png';
 
 export default function App() {
   const {
@@ -77,8 +78,13 @@ export default function App() {
       {/* Header */}
       <header className="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-          <div className="flex items-center gap-3 mb-4">
-            <BookOpen className="w-8 h-8 text-blue-600" />
+          <div className="flex flex-col items-center text-center mb-4">
+            <img
+              src={logoEscuta}
+              alt="Logo Escuta Cidadã"
+              className="w-24 h-auto mb-3"
+            />
+
             <div>
               <h1 className="text-3xl font-bold text-gray-900">
                 Repositório de Métodos de Escuta Cidadã
