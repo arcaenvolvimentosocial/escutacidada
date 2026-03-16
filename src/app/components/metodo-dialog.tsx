@@ -11,17 +11,17 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from './ui/accordion';
-import { 
-  Users, 
-  Clock, 
-  Calendar, 
-  MapPin, 
-  Target, 
-  CheckCircle, 
-  XCircle, 
+import {
+  Users,
+  Clock,
+  Calendar,
+  MapPin,
+  Target,
+  CheckCircle,
+  XCircle,
   AlertTriangle,
   TrendingUp,
-  ExternalLink
+  ExternalLink,
 } from 'lucide-react';
 
 interface MetodoDialogProps {
@@ -31,43 +31,73 @@ interface MetodoDialogProps {
   onOpenChange: (open: boolean) => void;
 }
 
-export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialogProps) => {
+export const MetodoDialog = ({
+  metodo,
+  passos,
+  open,
+  onOpenChange,
+}: MetodoDialogProps) => {
   if (!metodo) return null;
+
+  const renderInlineFormatting = (text: string) => {
+    return text.split(/(\*\*.*?\*\*)/g).map((part, index) => {
+      if (part.startsWith('**') && part.endsWith('**')) {
+        return (
+          <strong key={index} className="font-semibold text-gray-900">
+            {part.slice(2, -2)}
+          </strong>
+        );
+      }
+
+      return part;
+    });
+  };
 
   const formatText = (text: string) => {
     return text.split('\n').map((line, idx) => {
       const trimmed = line.trim();
       if (!trimmed) return null;
-      
+
       // Se começa com > (citação)
       if (trimmed.startsWith('>')) {
         return (
-          <blockquote key={idx} className="border-l-4 border-blue-500 pl-4 italic text-gray-700 my-2">
-            {trimmed.substring(1).trim()}
+          <blockquote
+            key={idx}
+            className="border-l-4 border-blue-500 pl-4 italic text-gray-700 my-2"
+          >
+            {renderInlineFormatting(trimmed.substring(1).trim())}
           </blockquote>
         );
       }
-      
+
       // Se começa com • ou - (lista)
       if (trimmed.startsWith('•') || trimmed.startsWith('-')) {
         return (
           <li key={idx} className="ml-4 my-1">
-            {trimmed.substring(1).trim()}
+            {renderInlineFormatting(trimmed.substring(1).trim())}
           </li>
         );
       }
-      
+
       return (
         <p key={idx} className="my-2">
-          {trimmed}
+          {renderInlineFormatting(trimmed)}
         </p>
       );
     });
   };
 
-  const InfoSection = ({ title, content, icon: Icon }: { title: string; content: string; icon: any }) => {
+  const InfoSection = ({
+    title,
+    content,
+    icon: Icon,
+  }: {
+    title: string;
+    content: string;
+    icon: any;
+  }) => {
     if (!content || content.trim() === '') return null;
-    
+
     return (
       <div className="mb-6">
         <div className="flex items-center gap-2 mb-2">
@@ -99,9 +129,9 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
                 ))}
               </div>
             )}
-            
+
             <DialogTitle className="text-3xl mb-4">{metodo.nome}</DialogTitle>
-            
+
             {/* Tipologia OCDE */}
             {metodo.tipologia && (
               <p className="text-sm text-gray-600 mb-4">{metodo.tipologia}</p>
@@ -157,7 +187,11 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
           </div>
 
           {/* Público Adequado */}
-          <InfoSection title="Público Adequado" content={metodo.publicoAdequado} icon={Users} />
+          <InfoSection
+            title="Público Adequado"
+            content={metodo.publicoAdequado}
+            icon={Users}
+          />
 
           {/* Descrição e Objetivo */}
           {metodo.descricao && (
@@ -189,7 +223,11 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
           {/* Vantagens e Riscos */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <InfoSection title="Vantagens" content={metodo.vantagens} icon={TrendingUp} />
-            <InfoSection title="Riscos e Limitações" content={metodo.riscos} icon={AlertTriangle} />
+            <InfoSection
+              title="Riscos e Limitações"
+              content={metodo.riscos}
+              icon={AlertTriangle}
+            />
           </div>
 
           {/* Entregáveis */}
@@ -218,10 +256,14 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
                 Passos de Aplicação
               </h3>
-              
+
               <Accordion type="single" collapsible className="w-full">
                 {passos.map((passo, index) => (
-                  <AccordionItem key={passo.id} value={`passo-${index}`} className="border-b border-gray-200">
+                  <AccordionItem
+                    key={passo.id}
+                    value={`passo-${index}`}
+                    className="border-b border-gray-200"
+                  >
                     <AccordionTrigger className="hover:no-underline hover:bg-gray-50 px-4 rounded">
                       <div className="flex items-center gap-3 text-left">
                         <span className="flex-shrink-0 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-sm font-bold">
@@ -237,11 +279,15 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
                             {formatText(passo.descricao)}
                           </div>
                         </div>
-                        
+
                         {passo.resultado && (
                           <div className="bg-green-50 p-4 rounded-lg border-l-4 border-green-500">
-                            <p className="font-semibold text-green-900 mb-2">✓ Resultado Esperado</p>
-                            <p className="text-sm text-green-800">{passo.resultado}</p>
+                            <p className="font-semibold text-green-900 mb-2">
+                              ✓ Resultado Esperado
+                            </p>
+                            <p className="text-sm text-green-800">
+                              {renderInlineFormatting(passo.resultado)}
+                            </p>
                           </div>
                         )}
                       </div>
