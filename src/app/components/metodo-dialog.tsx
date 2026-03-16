@@ -108,7 +108,15 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
             )}
           </div>
         </DialogHeader>
-
+        
+ {/* Descrição e Objetivo */}
+          {metodo.descricao && (
+            <div>
+              <h4 className="font-semibold text-gray-900 mb-2 text-lg">O que é?</h4>
+              <div className="text-sm text-gray-700">{formatText(metodo.descricao)}</div>
+            </div>
+          )}
+        
         <div className="space-y-6">
           {/* Informações Chave - Destaque */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 bg-blue-50 p-6 rounded-lg border-2 border-blue-200">
@@ -160,7 +168,7 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
             <div className="bg-gradient-to-r from-purple-50 to-blue-50 p-6 rounded-lg border-2 border-purple-200">
               <div className="flex items-center gap-2 mb-3">
                 <Users className="w-6 h-6 text-purple-600" />
-                <h4 className="font-bold text-gray-900 text-lg">Equipe Necessária</h4>
+                <h4 className="font-bold text-gray-900 text-lg">Habilidades Necessárias</h4>
               </div>
               <div className="text-sm text-gray-700">
                 {formatText(metodo.equipeNecessaria)}
@@ -168,13 +176,7 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
             </div>
           )}
 
-          {/* Descrição e Objetivo */}
-          {metodo.descricao && (
-            <div>
-              <h4 className="font-semibold text-gray-900 mb-2 text-lg">O que é?</h4>
-              <div className="text-sm text-gray-700">{formatText(metodo.descricao)}</div>
-            </div>
-          )}
+         
 
           <InfoSection title="Objetivo" content={metodo.objetivo} icon={Target} />
 
