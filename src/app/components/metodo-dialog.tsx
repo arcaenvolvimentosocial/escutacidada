@@ -119,7 +119,7 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
                 <div>
-                  <p className="font-semibold text-gray-900">Modalidade</p>
+                  <p className="font-semibold text-gray-900">Formato:</p>
                   <p className="text-sm text-gray-700">{metodo.modalidade}</p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
           {/* Descrição e Objetivo */}
           {metodo.descricao && (
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2 text-lg">O que é?</h4>
+              <h4 className="font-semibold text-gray-900 mb-2 text-lg">Descrição:</h4>
               <div className="text-sm text-gray-700">{formatText(metodo.descricao)}</div>
             </div>
           )}
