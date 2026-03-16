@@ -108,19 +108,24 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
             )}
           </div>
         </DialogHeader>
-        
- {/* Descrição e Objetivo */}
-          {metodo.descricao && (
-            <div>
-              <h4 className="font-semibold text-gray-900 mb-2 text-lg">O que é?</h4>
-              <div className="text-sm text-gray-700">{formatText(metodo.descricao)}</div>
-            </div>
-          )}
-        
+
         <div className="space-y-6">
-          {/* Informações Chave - Destaque */}
+          {/* Objetivo */}
+          <InfoSection title="Objetivo" content={metodo.objetivo} icon={Target} />
+
+          {/* Informações Chave */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 bg-blue-50 p-6 rounded-lg border-2 border-blue-200">
-            <div className="space-y-3">
+            {metodo.modalidade && (
+              <div className="flex items-start gap-3">
+                <MapPin className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
+                <div>
+                  <p className="font-semibold text-gray-900">Modalidade</p>
+                  <p className="text-sm text-gray-700">{metodo.modalidade}</p>
+                </div>
+              </div>
+            )}
+
+            {metodo.nivelEsforco && (
               <div className="flex items-start gap-3">
                 <Clock className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
                 <div>
@@ -128,42 +133,41 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
                   <p className="text-sm text-gray-700">{metodo.nivelEsforco}</p>
                 </div>
               </div>
-              
-              {metodo.duracao && (
-                <div className="flex items-start gap-3">
-                  <Calendar className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-semibold text-gray-900">Duração</p>
-                    <p className="text-sm text-gray-700">{metodo.duracao}</p>
-                  </div>
-                </div>
-              )}
-            </div>
+            )}
 
-            <div className="space-y-3">
-              {metodo.tamanhoGrupo && (
-                <div className="flex items-start gap-3">
-                  <Users className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-semibold text-gray-900">Tamanho do Grupo</p>
-                    <p className="text-sm text-gray-700">{metodo.tamanhoGrupo}</p>
-                  </div>
+            {metodo.duracao && (
+              <div className="flex items-start gap-3">
+                <Calendar className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
+                <div>
+                  <p className="font-semibold text-gray-900">Duração</p>
+                  <p className="text-sm text-gray-700">{metodo.duracao}</p>
                 </div>
-              )}
-              
-              {metodo.modalidade && (
-                <div className="flex items-start gap-3">
-                  <MapPin className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-semibold text-gray-900">Modalidade</p>
-                    <p className="text-sm text-gray-700">{metodo.modalidade}</p>
-                  </div>
+              </div>
+            )}
+
+            {metodo.tamanhoGrupo && (
+              <div className="flex items-start gap-3">
+                <Users className="w-5 h-5 text-blue-600 mt-1 flex-shrink-0" />
+                <div>
+                  <p className="font-semibold text-gray-900">Tamanho do Grupo</p>
+                  <p className="text-sm text-gray-700">{metodo.tamanhoGrupo}</p>
                 </div>
-              )}
-            </div>
+              </div>
+            )}
           </div>
 
-          {/* Equipe Necessária - Destaque especial */}
+          {/* Público Adequado */}
+          <InfoSection title="Público Adequado" content={metodo.publicoAdequado} icon={Users} />
+
+          {/* Descrição e Objetivo */}
+          {metodo.descricao && (
+            <div>
+              <h4 className="font-semibold text-gray-900 mb-2 text-lg">O que é?</h4>
+              <div className="text-sm text-gray-700">{formatText(metodo.descricao)}</div>
+            </div>
+          )}
+
+          {/* Equipe Necessária - mantida */}
           {metodo.equipeNecessaria && (
             <div className="bg-gradient-to-r from-purple-50 to-blue-50 p-6 rounded-lg border-2 border-purple-200">
               <div className="flex items-center gap-2 mb-3">
@@ -176,18 +180,11 @@ export const MetodoDialog = ({ metodo, passos, open, onOpenChange }: MetodoDialo
             </div>
           )}
 
-         
-
-          <InfoSection title="Objetivo" content={metodo.objetivo} icon={Target} />
-
           {/* Quando Usar / Não Usar */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <InfoSection title="Quando usar" content={metodo.quandoUsar} icon={CheckCircle} />
             <InfoSection title="Quando NÃO usar" content={metodo.quandoNaoUsar} icon={XCircle} />
           </div>
-
-          {/* Público Adequado */}
-          <InfoSection title="Público Adequado" content={metodo.publicoAdequado} icon={Users} />
 
           {/* Vantagens e Riscos */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
