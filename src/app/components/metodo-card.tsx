@@ -67,9 +67,18 @@ export const MetodoCard = ({ metodo, onClick }: MetodoCardProps) => {
         )}
       </div>
 
+      {/* Equipe Necessária */}
+      {metodo.equipeNecessaria && (
+        <div className="mb-4 text-sm text-gray-700 line-clamp-2">
+          <span className="font-semibold text-gray-900">Habilidades: </span>
+          {metodo.equipeNecessaria.substring(0, 100)}
+          {metodo.equipeNecessaria.length > 100 && '...'}
+        </div>
+      )}
+
       {/* Descrição resumida */}
       <p className="text-sm text-gray-600 mb-4 line-clamp-3">
-        {getResumo(metodo.objetivo)}
+        {getResumo(metodo.descricao)}
       </p>
 
       {/* Informações adicionais */}
