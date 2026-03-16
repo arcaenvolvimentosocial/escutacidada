@@ -5,7 +5,7 @@ import { MetodoDialog } from './components/metodo-dialog';
 import { CSVUploader } from './components/csv-uploader';
 import { Metodo } from './data/metodos';
 import { Search, AlertCircle } from 'lucide-react';
-import logoEscuta from './assets/Ativo 15-8.png';
+import logoEscuta from '../assets/Ativo 15-8.png';
 
 export default function App() {
   const {
