@@ -385,7 +385,7 @@ Faça devolutiva em dois níveis: uma devolutiva pública simples (o que foi obs
 
 Replicabilidade:
 Se houver interesse de replicação, organize kit mínimo com categorias, instruções, rotina de coleta, regras de privacidade e modelo de interlocução, mantendo foco em recomendações e articulação com quem pode implementar mudanças.","Devolutiva realizada, recomendações e agenda de interlocução registradas e kit de replicação preparado quando aplicável."
-54,M004,Social Listening ,Passo 1,Objetivo e hipótese de mudança,"O processo de social listening começa pela definição do problema e da hipótese de mudança. Essa etapa existe para evitar monitorar um volume excessivo de dados e não produzir evidência útil. 
+54,M004,Escuta Social (Social Listening),Passo 1,Objetivo e hipótese de mudança,"O processo de social listening começa pela definição do problema e da hipótese de mudança. Essa etapa existe para evitar monitorar um volume excessivo de dados e não produzir evidência útil. 
 Defina quais decisões serão subsidiadas, por exemplo melhorar comunicação, detectar risco de crise, orientar recortes de análise, ou entender barreiras percebidas em um serviço.
 
 Defina hipóteses testáveis, com sinais observáveis.
@@ -400,11 +400,11 @@ Sinais observáveis:
 - Aparecem picos em dias ou horários específicos, ou logo depois de algum fato (sistema fora do ar, atendimento suspenso, falta de senha).
 
 - As pessoas começam a repetir as mesmas frases e queixas, como “sem vaga”, “não tem agenda”, “voltei três vezes” e “site fora do ar”.","Objetivo, hipótese, critérios de sucesso e limites do experimento definidos e registrados."
-55,M004,Social Listening ,Passo 2,Escopo e fontes,"Delimite tema, território, período e fontes, sempre compatível com a capacidade de coleta e análise. Inclua redes, fóruns, blogs e notícias conforme relevância. 
+55,M004,Escuta Social (Social Listening),Passo 2,Escopo e fontes,"Delimite tema, território, período e fontes, sempre compatível com a capacidade de coleta e análise. Inclua redes, fóruns, blogs e notícias conforme relevância. 
 O objetivo é garantir cobertura suficiente (pegar dados de fontes e períodos suficientes para enxergar o problema com clareza) sem perder controle operacional (conseguir coletar, filtrar, ler, classificar e analisar esse volume com a equipe e o tempo que você tem). 
 
 Nota de Atenção: um risco comum é escopo amplo demais. É um sinal de falha quando a equipe não consegue explicar de onde vem cada achado. Se isso acontecer, reduza o tema, encurte a janela temporal ou limite as fontes.","Escopo documentado, lista de fontes definida e janela temporal registrada."
-56,M004,Social Listening ,Passo 3,Taxonomia e perguntas de monitoramento,"Construa uma taxonomia simples com temas, subtemas e intenções de fala. Essa etapa existe para permitir comparação e reduzir interpretação caso a caso. Use também perguntas analíticas claras, por exemplo o que está crescendo, o que está mudando, o que está sendo confundido, quais narrativas estão circulando.
+56,M004,Escuta Social (Social Listening),Passo 3,Taxonomia e perguntas de monitoramento,"Construa uma taxonomia simples com temas, subtemas e intenções de fala. Essa etapa existe para permitir comparação e reduzir interpretação caso a caso. Use também perguntas analíticas claras, por exemplo o que está crescendo, o que está mudando, o que está sendo confundido, quais narrativas estão circulando.
 
 Exemplo de taxonomia suficiente aplicada ao sistema de assistência social: 
 -Tema: Acesso e portas de entrada.
@@ -414,7 +414,7 @@ Exemplo de taxonomia suficiente aplicada ao sistema de assistência social:
 -Intenções de fala: pedir orientação, relatar dificuldade, denunciar barreira, elogiar atendimento, sugerir melhoria.
 
 Exemplo de taxonomia insuficiente: Problemas, Reclamações, Satisfação (classificações genéricas e muito abrangentes). ","Dicionário de temas pronto, matriz de perguntas analíticas definida e critérios de classificação registrados."
-57,M004,Social Listening ,Passo 4,Governança de Dados,"Defina salvaguardas e limites de uso antes de ligar a coleta. Essa etapa existe para evitar reidentificação e uso indevido de conteúdo sensível, além de deixar claro o que pode e o que não pode ser feito com os dados.
+57,M004,Escuta Social (Social Listening),Passo 4,Governança de Dados,"Defina salvaguardas e limites de uso antes de ligar a coleta. Essa etapa existe para evitar reidentificação e uso indevido de conteúdo sensível, além de deixar claro o que pode e o que não pode ser feito com os dados.
 
 Envolva desde o início a unidade jurídica, de conformidade e, quando houver, a área de governança de dados. O objetivo é validar regras simples e aplicáveis antes da operação começar, para reduzir risco e retrabalho.
 
@@ -423,7 +423,7 @@ Defina, de forma prática:
 - quem pode acessar dados brutos;
 - quais campos não serão coletados ou armazenados;
 como você evita olhar para perfis individuais e como você registra decisões de curadoria.",Política interna definida.
-58,M004,Social Listening ,Passo 5,Queries e configuração da ferramenta,"
+58,M004,Escuta Social (Social Listening),Passo 5,Queries e configuração da ferramenta,"
 Implemente uma biblioteca de consultas com palavras-chave, nomes de programas e serviços, variações de escrita e termos de exclusão. Essa etapa existe para reduzir ruído e garantir que outra pessoa consiga repetir a coleta e chegar a resultados parecidos.
 
 Observe o seguinte exemplo de implementação como referência:
@@ -440,7 +440,7 @@ Separar por município/região quando possível. Crie consultas específicas par
 Versione de forma simples: versionar é guardar cópias numeradas das consultas e dos painéis, com data e motivo da mudança. 
 
 Exemplo: Consulta_Benefício_v1.0 (inicial), v1.1 (incluiu sinônimo), v1.2 (excluiu termo que gerava spam). Regra prática: nunca apague ou substitua uma consulta sem registrar o que mudou e por quê.","Biblioteca de queries versionada, filtros definidos e painéis iniciais configurados."
-59,M004,Social Listening ,Passo 6,Calibração e linha de base,"Rode uma coleta inicial curta, só para teste. Essa etapa existe para descobrir cedo se você está coletando dados demais, dados errados ou postagens com muito spam. O objetivo é ajustar antes de virar rotina.
+59,M004,Escuta Social (Social Listening),Passo 6,Calibração e linha de base,"Rode uma coleta inicial curta, só para teste. Essa etapa existe para descobrir cedo se você está coletando dados demais, dados errados ou postagens com muito spam. O objetivo é ajustar antes de virar rotina.
 
 Verifique três pontos e ajuste o que for preciso:
 
@@ -453,12 +453,12 @@ Cobertura: está faltando parte importante do assunto? Então inclua sinônimos,
 Depois disso, defina uma linha de base. Linha de base é o retrato do normal: quanto se fala do tema em um período comum e quais temas aparecem com mais frequência quando não há evento relevante. Essa referência serve para identificar picos e mudanças depois, porque você consegue comparar o que está acontecendo agora com o que normalmente acontece.
 
 Por exemplo: Em 15 dias, termos referentes a falhas de prestação de serviços de transporte público tem 150 menções em uma rede social específica. Essa é a linha de base. Se num mês, esse valor aumenta em 50%, isso pode significar uma potencial crise na prestação do serviço. ","Relatório de calibração concluído, linha de base definida e ajustes aplicados."
-60,M004,Social Listening ,Passo 7,Monitoramento contínuo e alertas,"Estabeleça rotinas e alertas para detectar picos de volume, mudança brusca de tom e temas sensíveis. Essa etapa existe para ganhar tempo de reação e evitar que um problema vire crise sem ser percebido.
+60,M004,Escuta Social (Social Listening),Passo 7,Monitoramento contínuo e alertas,"Estabeleça rotinas e alertas para detectar picos de volume, mudança brusca de tom e temas sensíveis. Essa etapa existe para ganhar tempo de reação e evitar que um problema vire crise sem ser percebido.
 
 Defina uma rotina simples, que caiba na equipe: checagem diária rápida e revisão semanal mais completa. Configure alertas com gatilhos claros, para evitar “alarme falso”. Exemplo de gatilhos: volume acima do normal, aumento rápido de um tema específico, ou aparecimento repetido de uma frase.
 
 Defina também o que acontece quando o alerta dispara. Registre um acordo operacional com responsáveis e prazos: quem faz a triagem, quem confirma se é ruído ou sinal, quem analisa, quem decide se escala e para quem escala. O objetivo é que todo alerta gere um registro do tipo “o que foi visto, o que foi feito e qual foi o resultado”, e não apenas uma notificação perdida.","Rotina operacional definida, alertas ativos e prazos de resposta estabelecidos."
-61,M004,Social Listening ,Passo 8,Curadoria e validação,"Faça curadoria para limpar o que atrapalha e deixar só o que ajuda a entender o problema. Essa etapa existe porque muita coisa é repetição, spam, piada, compartilhamento automático ou comentário sem informação. Se você não tratar isso, a análise fica distorcida.
+61,M004,Escuta Social (Social Listening),Passo 8,Curadoria e validação,"Faça curadoria para limpar o que atrapalha e deixar só o que ajuda a entender o problema. Essa etapa existe porque muita coisa é repetição, spam, piada, compartilhamento automático ou comentário sem informação. Se você não tratar isso, a análise fica distorcida.
 
 Aplique regras simples e registre o que fez:
 
@@ -477,7 +477,7 @@ Faça as seguintes perguntas:
 - As reclamações são fruto de falta de explicação sobre uma circunstância?
 
 Se ambas as respostas forem não, o conjunto de dados pode se tornar uma evidência de subsídio ao processo de auditoria. ","Log de curadoria criado, amostras validadas e critérios de confiança documentados."
-62,M004,Social Listening ,Passo 9 ,"Análise e síntese (temas, atores, narrativas)","Produza uma leitura organizada por temas, evolução no tempo e narrativas. Essa etapa existe para sair de postagens soltas e chegar a padrões que possam virar achados.
+62,M004,Escuta Social (Social Listening),Passo 9 ,"Análise e síntese (temas, atores, narrativas)","Produza uma leitura organizada por temas, evolução no tempo e narrativas. Essa etapa existe para sair de postagens soltas e chegar a padrões que possam virar achados.
 
 Comece pelo básico: quais temas aparecem mais, quais cresceram em relação ao normal e quais mudaram de forma rápida. Depois, descreva como o assunto evolui ao longo dos dias ou semanas, para separar pico pontual de tendência.
 
@@ -485,7 +485,7 @@ Em seguida, identifique as narrativas. Narrativa é o “enredo” que se repete
 Exemplo: “não consigo agendar porque o sistema caiu”, ou “estão negando benefício sem explicar”. Registre as principais frases e ideias que se repetem, e mostre em quais temas elas aparecem.
 
 Quando fizer sentido, observe quem está puxando a conversa e onde ela se concentra. Isso ajuda a entender como a informação se espalha e por que um tema ganhou força. Use esse mapeamento como contexto para orientar resposta e checagem, não como prova isolada de que algo aconteceu.","Achados consolidados, mapa de narrativas e atores produzido e limites de inferência registrados."
-63,M004,Social Listening ,Passo 10,Sensemaking,"Faça uma sessão curta de interpretação com as áreas técnicas e de comunicação. Essa etapa existe para checar se a leitura faz sentido, reduzir erro de interpretação e transformar achados em opções de ação.
+63,M004,Escuta Social (Social Listening),Passo 10,Sensemaking,"Faça uma sessão curta de interpretação com as áreas técnicas e de comunicação. Essa etapa existe para checar se a leitura faz sentido, reduzir erro de interpretação e transformar achados em opções de ação.
 
 Leve para a sessão um pacote simples: os 5 principais temas, as 3 narrativas mais repetidas, os maiores picos e um resumo do que mudou em relação à linha de base. Peça que as áreas indiquem o que é plausível, o que parece ruído e o que exige checagem imediata.
 
@@ -495,7 +495,7 @@ Toda conclusão precisa responder três perguntas, por escrito:
 - O que precisa ser confirmado por outras fontes? 
 
 Ao final, registre decisões e próximos passos, com responsável e prazo, para evitar que a sessão vire só debate.","Prioridades acordadas, opções de ação definidas e registro de validação produzido."
-64,M004,Social Listening ,Passo 11,Encaminhamentos e resposta institucional,"Traduza os achados em insumo de auditoria, com recomendações que ataquem a causa do problema. Essa etapa existe para evitar que o social listening vire só monitoramento de percepção, sem virar encaminhamento transformativo.
+64,M004,Escuta Social (Social Listening),Passo 11,Encaminhamentos e resposta institucional,"Traduza os achados em insumo de auditoria, com recomendações que ataquem a causa do problema. Essa etapa existe para evitar que o social listening vire só monitoramento de percepção, sem virar encaminhamento transformativo.
 
 - Converter achado em hipótese auditável
 Escreva o achado como algo verificável. Exemplo: usuários relatam dificuldade recorrente de agendamento em determinado território. Em seguida, diga o que precisa ser confirmado em campo e em base administrativa, por exemplo registros de agendamento, capacidade de atendimento, indisponibilidade de sistema, cancelamentos e tempo de espera.
@@ -511,7 +511,7 @@ Formule recomendação que mude o sistema, não só a comunicação. Exemplos de
 -Implementar controle mínimo de qualidade do atendimento, com registro de tempos de espera e ponto de falha do fluxo, e plano de correção com metas e responsáveis.
 
 -Criar protocolo de resposta a boatos com fonte oficial única, atualização rápida de FAQ e indicadores de monitoramento para medir se o boato caiu.","Plano de resposta definido, peças de comunicação listadas e backlog de melhorias registrado com responsáveis e prazos."
-65,M004,Social Listening ,Passo 12,Avaliação e melhoria,"Avalie se o social listening realmente ajudou a tomada de decisão e atualize consultas e taxonomia. Essa etapa existe para melhorar a qualidade ao longo do tempo e evitar que o monitoramento vire rotina automática sem utilidade.
+65,M004,Escuta Social (Social Listening),Passo 12,Avaliação e melhoria,"Avalie se o social listening realmente ajudou a tomada de decisão e atualize consultas e taxonomia. Essa etapa existe para melhorar a qualidade ao longo do tempo e evitar que o monitoramento vire rotina automática sem utilidade.
 
 Faça uma checagem simples de utilidade: o que o social listening permitiu decidir, priorizar ou checar que você não teria visto a tempo por outros meios. Depois, verifique se houve redução de lacunas de entendimento, mudança de padrões de conversa e melhora na detecção de sinais críticos, como picos, boatos e temas sensíveis.
 
@@ -2603,7 +2603,7 @@ Organize o pacote final para uso no relatório e na interlocução. São exemplo
 7) Recomendações transformativas: recomendações numeradas, com mecanismo de mudança, responsável, prazo sugerido e plano de acompanhamento.
 
 Faça devolutiva em dois níveis: devolutiva pública com síntese sem dados sensíveis e devolutiva técnica com agenda de interlocução e registro de resposta institucional.","Devolutiva realizada, resposta institucional registrada e pacote de entregáveis de auditoria pronto."
-254,M018,Living Labs,Passo 1,Enquadramento do problema e produto de auditoria,"A construção de um Living Lab começa pela definição do problema e do produto que a auditoria precisa entregar. 
+254,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 1,Enquadramento do problema e produto de auditoria,"A construção de um Living Lab começa pela definição do problema e do produto que a auditoria precisa entregar. 
 
 Essa etapa existe para evitar um laboratório bem organizado que não vira evidência útil. Escreva um termo de abertura do ciclo com 5 itens: objetivo, hipótese testável, recorte territorial, público afetado e entregável final esperado. 
 
@@ -2624,7 +2624,7 @@ Qual evidência sustenta: observação de 3 aulas com registro de tempo de queda
 
 
 ","Termo de abertura do ciclo concluído com objetivo, hipótese, recorte, critérios de evidência e entregável final definidos."
-255,M018,Living Labs,Passo 2,Definição do contexto real de teste,"Escolha onde o teste vai acontecer e qual parte do serviço será observada. Essa etapa existe porque Living Lab depende de experimentação em ambiente real, não apenas em oficina. 
+255,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 2,Definição do contexto real de teste,"Escolha onde o teste vai acontecer e qual parte do serviço será observada. Essa etapa existe porque Living Lab depende de experimentação em ambiente real, não apenas em oficina. 
 
 Delimite o local e as condições do teste. 
 
@@ -2635,7 +2635,7 @@ Se o ambiente tiver riscos, registre condições mínimas de segurança e acesso
 Exemplo adequado: testar o protótipo em uma unidade com fluxo alto e com público diverso, em dias e horários normais de atendimento.
 
 Exemplo inadequado: testar apenas em reunião interna, sem contato com o ambiente real e sem observação do uso.","Contexto real selecionado e delimitado, com condições de acesso e segurança registradas."
-256,M018,Living Labs,Passo 3,Ecossistema de atores e papéis,"Liste os atores e atribua papéis. Essa etapa existe para organizar a colaboração e evitar lacunas operacionais.Use uma matriz de responsabilidades simples com “quem decide”, “quem executa”, “quem apoia” e “quem valida”.
+256,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 3,Ecossistema de atores e papéis,"Liste os atores e atribua papéis. Essa etapa existe para organizar a colaboração e evitar lacunas operacionais.Use uma matriz de responsabilidades simples com “quem decide”, “quem executa”, “quem apoia” e “quem valida”.
 
 Regra prática: o time de auditoria decide o que será medido e como o resultado vira recomendação; 
 o órgão responsável pelo serviço executa o piloto no ambiente real; 
@@ -2647,7 +2647,7 @@ A lógica de multiator e co-criação é central no Living Lab.
 
 Exemplo adequado: auditoria define métricas e instrumento; órgão executa o teste; cidadãos testam e registram dificuldades; parceiro técnico apoia desenho e coleta.
 Exemplo inadequado: parceiro técnico define o que medir e controla o acesso aos dados, sem autonomia do time de auditoria.",Matriz de responsabilidades definida e pontos focais nomeados por ator.
-257,M018,Living Labs,Passo 4,Acordos Formais,"Formalize a governança do ciclo antes de iniciar. 
+257,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 4,Acordos Formais,"Formalize a governança do ciclo antes de iniciar. 
 
 Essa etapa existe para manter controle técnico, reduzir risco jurídico e evitar disputas sobre dados e narrativa. 
 
@@ -2661,7 +2661,7 @@ cláusula de publicação de resultados.
 
 Se houver parceiro hospedeiro do laboratório, registre o que ele provê e o que ele não controla. 
 Living Labs podem ser hospedados por diferentes tipos de organização, então isso precisa ficar explícito no acordo.","Acordo de governança assinado, com regras de decisão, acesso a dados, controle de mudanças e autonomia técnica registrados."
-258,M018,Living Labs,Passo 5,Governança de dados e ética de participação,"Defina salvaguardas de dados antes de coletar. 
+258,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 5,Governança de dados e ética de participação,"Defina salvaguardas de dados antes de coletar. 
 
 Essa etapa existe para evitar reidentificação e uso indevido, especialmente em testes em ambiente real. 
 
@@ -2672,7 +2672,7 @@ controle de acesso; retenção e descarte;
  protocolo de incidentes.
 
  Se houver registro audiovisual, defina consentimento, armazenamento e quem acessa.","Protocolo de dados e ética aprovado, com minimização, acesso, retenção e plano de incidentes definidos."
-259,M018,Living Labs,Passo 6,Plano de participação cidadã e equidade,"Defina como cidadãos e cidadãs vão participar em cada fase. 
+259,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 6,Plano de participação cidadã e equidade,"Defina como cidadãos e cidadãs vão participar em cada fase. 
 Essa etapa existe para evitar participação simbólica e para reduzir vieses de acesso.
 
 Especifique: critérios de convite;
@@ -2685,17 +2685,17 @@ Se o público tiver barreiras, inclua participação assistida. Registre como vo
 
 Exemplo adequado: horários compatíveis com quem trabalha, apoio de acessibilidade, mediação para linguagem simples e participação assistida no local.
 Exemplo inadequado: convite apenas por formulário online e reunião em horário comercial, excluindo parte do público.","Plano de participação concluído, com critérios, apoios, acessibilidade e estratégia de mitigação de vieses definidos."
-260,M018,Living Labs,Passo 7,Diagnóstico inicial e linha de base,"Faça um diagnóstico rápido do problema antes de co-criar solução. 
+260,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 7,Diagnóstico inicial e linha de base,"Faça um diagnóstico rápido do problema antes de co-criar solução. 
 
 Essa etapa existe para definir uma linha de base e evitar que o teste seja interpretado sem comparação.Levante dados existentes do serviço, relatos do cidadão, fluxos do atendimento e pontos de atrito. 
 
 Registre como estava “antes” em métricas simples, como tempo, taxa de erro, desistência, ou entendimento do usuário.",Linha de base registrada e diagnóstico inicial consolidado com principais barreiras e hipóteses refinadas.
-261,M018,Living Labs,Passo 8,Co-exploração com usuários em campo,"Execute co-exploração com cidadãos e cidadãs no ambiente real. 
+261,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 8,Co-exploração com usuários em campo,"Execute co-exploração com cidadãos e cidadãs no ambiente real. 
 
 Essa etapa existe para captar necessidades e restrições do uso, não apenas opiniões. Faça observação de jornada, entrevistas curtas e validação de problemas. 
 
 Regra prática: cada problema identificado deve ser registrado com “onde ocorre”, “quem é afetado”, “qual efeito” e “qual evidência sustenta”.",Problemas priorizados com evidências iniciais e mapa de barreiras do usuário concluído.
-262,M018,Living Labs,Passo 9,Co-criação e co-design de alternativas,"Conduza sessões de co-criação para gerar alternativas de solução e suas regras de funcionamento. 
+262,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 9,Co-criação e co-design de alternativas,"Conduza sessões de co-criação para gerar alternativas de solução e suas regras de funcionamento. 
 
 Essa etapa existe para produzir protótipos compreensíveis e testáveis.
 
@@ -2716,29 +2716,29 @@ Como funciona: criar protocolo de 5 passos para quando cair, com canal de aciona
 Recursos: formulário simples e treinamento de 30 minutos
 Riscos: gerar subnotificação se for complexo
 Como será testada: medir tempo de recuperação e número de incidentes registrado",Conjunto de alternativas definido e protótipos iniciais descritos com regras de teste e riscos.
-263,M018,Living Labs,Passo 10,Plano de teste e critérios de sucesso,"Transforme o protótipo em um plano de teste. Essa etapa existe para garantir que o piloto gere evidência comparável e auditável. 
+263,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 10,Plano de teste e critérios de sucesso,"Transforme o protótipo em um plano de teste. Essa etapa existe para garantir que o piloto gere evidência comparável e auditável. 
 
 Defina: duração do teste, amostra mínima de usuários, métricas, instrumentos de coleta, responsabilidades operacionais e critérios de sucesso e falha. Inclua critério de interrupção segura, caso surja risco relevante.
 ","Plano de teste aprovado com métricas, amostra, instrumentos, critérios de sucesso e regra de interrupção definidos."
-264,M018,Living Labs,Passo 11,Plano de voluntários e mediação,"Defina como voluntários e mediadores serão usados. Essa etapa existe para manter fluxo, acessibilidade e neutralidade.
+264,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 11,Plano de voluntários e mediação,"Defina como voluntários e mediadores serão usados. Essa etapa existe para manter fluxo, acessibilidade e neutralidade.
 
 Voluntário faz: orientar uso do protótipo, apoiar acessibilidade, registrar ocorrências e encaminhar dúvidas. 
 
 Voluntário não faz: induzir resposta, prometer mudança, coletar dado pessoal. Treine com simulação curta e roteiro neutro.","Plano de voluntários concluído com papéis, limites, roteiro neutro e treinamento realizado."
-265,M018,Living Labs,Passo 12,Implementação do piloto no ambiente real,"Coloque o protótipo em funcionamento no contexto real.
+265,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 12,Implementação do piloto no ambiente real,"Coloque o protótipo em funcionamento no contexto real.
 
  Essa etapa existe para observar uso de verdade e não apenas intenção. 
 
 Acompanhe diariamente sinais mínimos: adesão, falhas operacionais, dúvidas recorrentes e incidentes de dados. 
 
 Se houver falha repetida, registre e aplique correção controlada, com versão e data.",Piloto operando com registro diário e controle de mudanças aplicado.
-266,M018,Living Labs,Passo 13,Teste e avaliação com trilha de evidência,"Colete dados durante o piloto e avalie resultados. Essa etapa existe para separar percepção de efeito observado. 
+266,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 13,Teste e avaliação com trilha de evidência,"Colete dados durante o piloto e avalie resultados. Essa etapa existe para separar percepção de efeito observado. 
 
 Use métodos simples e replicáveis: observação, questionário curto, entrevistas, diário do usuário, contagens operacionais. Para cada resultado, registre fonte, período e limitações.","Base de avaliação consolidada com trilha de evidência, limites e qualidade do dado registrados."
-267,M018,Living Labs,Passo 14,Síntese de achados e conversão em recomendações,"Produza síntese curta, com padrões e limites, e converta em recomendações e pedidos de evidência. 
+267,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 14,Síntese de achados e conversão em recomendações,"Produza síntese curta, com padrões e limites, e converta em recomendações e pedidos de evidência. 
 
 Essa etapa existe para transformar teste em produto de auditoria útil.Estruture a síntese em blocos: o que foi testado, o que funcionou, o que não funcionou, quais riscos e limitações, e o que precisa ser confirmado por outras fontes. Em seguida, derive recomendações com responsável, prazo sugerido e evidência associada.","Relatório de achados concluído, com recomendações, pedidos de evidência e limites explicitados."
-268,M018,Living Labs,Passo 15,"Devolutiva, resposta institucional e kit de replicação","Feche o ciclo com devolutiva e registre resposta institucional. Essa etapa existe para evitar frustração e para amarrar o Living Lab ao produto final do TCU, que é dirigido a outros órgãos.
+268,M018,Laboratório Vivo de Inovação Pública (Living Labs),Passo 15,"Devolutiva, resposta institucional e kit de replicação","Feche o ciclo com devolutiva e registre resposta institucional. Essa etapa existe para evitar frustração e para amarrar o Living Lab ao produto final do TCU, que é dirigido a outros órgãos.
 
 Faça devolutiva em dois níveis:
 • devolutiva pública com síntese sem dados sensíveis, deixando claros limites do teste;
@@ -3913,7 +3913,7 @@ Para a pessoa auditora, o papel principal nesta etapa é organizar um processo d
 Um exemplo adequado ocorre quando a equipe acompanha periodicamente os indicadores pactuados, produz sínteses claras sobre avanços e dificuldades e mantém transparência sobre os resultados do processo. Por exemplo, se um compromisso envolve a criação de indicadores nacionais de fiscalização profissional, o monitoramento pode verificar se os indicadores foram publicados, se as instituições estão reportando dados de forma consistente e se essas informações passaram a orientar decisões de governança do sistema. Em alguns casos, o acompanhamento pode incluir a participação de organizações da sociedade civil ou especialistas independentes, reforçando a credibilidade do processo e ampliando a transparência. Um exemplo inadequado seria tratar a assinatura do termo como encerramento do trabalho e realizar apenas um acompanhamento eventual ou informal. Quando isso ocorre, os compromissos tendem a perder prioridade institucional e o potencial de transformação do processo diminui significativamente.
 
 Um erro frequente nesta etapa é reduzir o monitoramento a um exercício burocrático de verificação de metas formais. O propósito do acompanhamento não é apenas registrar cumprimento de prazos, mas compreender se o sistema institucional está realmente melhorando sua capacidade de proteger o cidadão. Outro erro recorrente é comunicar apenas os resultados positivos e omitir dificuldades ou atrasos. A transparência sobre desafios e aprendizados fortalece a credibilidade do processo e permite ajustes ao longo do caminho.","Ciclo de monitoramento e avaliação que permita acompanhar a evolução institucional do sistema analisado, produzir evidências sobre os resultados alcançados e prestar contas de forma clara à sociedade. Esse processo fecha o ciclo do Compromisso Cidadão e, ao mesmo tempo, gera aprendizados que podem orientar novas auditorias e futuros ciclos de cooperação institucional voltados à geração de valor público."
-386,M028,3Horizons Framework,Passo 1,"Enquadrar o problema público no presente (Horizonte 1)
+386,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 1,"Enquadrar o problema público no presente (Horizonte 1)
 
 ","A equipe descreve como o sistema público funciona hoje na prática. O objetivo é tornar visível o modelo dominante que organiza a política pública ou o serviço investigado.
 
@@ -3979,7 +3979,7 @@ rotinas institucionais que sustentam essas práticas
 dificuldades recorrentes observadas no funcionamento cotidiano
 
 Esse registro visual ajuda a equipe a construir uma compreensão compartilhada do modelo atual antes de avançar para os horizontes seguintes.","A equipe identifica como o sistema funciona hoje e quais práticas sustentam o modelo atual. O foco deixa de ser apenas a norma ou o desenho formal da política e passa a incluir a experiência real de funcionamento do sistema. Por exemplo, numa auditoria sobre acesso ao SUS, a equipe descreve não apenas a política de regulação de consultas, mas também como pacientes, médicos e gestores vivem esse processo na prática. Isso permite tornar visíveis limites operacionais que muitas vezes não aparecem nos documentos institucionais."
-387,M028,3Horizons Framework,Passo 2,Identificar sinais de tensão e mudança no sistema (Horizonte 2),"A equipe identifica pressões, conflitos e experimentações que indicam que o sistema atual está sendo desafiado. O Horizonte 2 corresponde ao espaço de transição, onde o modelo dominante começa a mostrar limites e diferentes atores passam a testar novas formas de resolver o problema público.
+387,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 2,Identificar sinais de tensão e mudança no sistema (Horizonte 2),"A equipe identifica pressões, conflitos e experimentações que indicam que o sistema atual está sendo desafiado. O Horizonte 2 corresponde ao espaço de transição, onde o modelo dominante começa a mostrar limites e diferentes atores passam a testar novas formas de resolver o problema público.
 
 Esse horizonte não representa um novo modelo já consolidado. Ele revela um campo de disputa entre práticas antigas e alternativas emergentes.
 
@@ -4042,7 +4042,7 @@ iniciativas emergentes que tentam resolver esses problemas
 conflitos entre práticas antigas e novas
 
 Esse exercício ajuda a equipe a visualizar o espaço de transição e compreender como o sistema está sendo pressionado a mudar.",A equipe identifica e registra as principais tensões que indicam mudança no sistema investigado. O resultado é um conjunto de evidências que mostram onde o modelo atual começa a perder capacidade de resposta e quais iniciativas ou disputas apontam para possíveis trajetórias de transformação.
-388,M028,3Horizons Framework,Passo 3,Explorar futuros desejáveis a partir da perspectiva cidadã (Horizonte 3),"A equipe identifica visões de futuro que indicam como o sistema público poderia funcionar de forma mais justa, eficiente ou acessível. O Horizonte 3 representa padrões institucionais que ainda não são dominantes, mas que expressam direções possíveis de transformação.
+388,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 3,Explorar futuros desejáveis a partir da perspectiva cidadã (Horizonte 3),"A equipe identifica visões de futuro que indicam como o sistema público poderia funcionar de forma mais justa, eficiente ou acessível. O Horizonte 3 representa padrões institucionais que ainda não são dominantes, mas que expressam direções possíveis de transformação.
 
 Essas visões não são tratadas como previsão. Elas funcionam como referência normativa que ajuda a avaliar se o sistema está caminhando para soluções mais adequadas ao problema público.
 
@@ -4101,7 +4101,7 @@ Que mudanças tornariam o acesso mais simples ou mais justo?
 Também pode ser útil pedir que as pessoas participantes descrevam exemplos concretos de experiências positivas já observadas em outros contextos.
 
 Essas narrativas ajudam a traduzir expectativas em características observáveis de sistemas futuros.",A equipe identifica princípios e características que indicam como o sistema público poderia evoluir para responder melhor ao problema investigado. O resultado é um conjunto de referências sobre futuros possíveis que ajudam a orientar a interpretação das mudanças observadas no presente.
-389,M028,3Horizons Framework,Passo 4,Mapear iniciativas que já antecipam o futuro no presente,"A equipe identifica práticas, projetos ou experiências que já materializam elementos do Horizonte 3 no contexto atual. Essas iniciativas são chamadas de “sementes do futuro” porque revelam formas alternativas de organizar o sistema público.
+389,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 4,Mapear iniciativas que já antecipam o futuro no presente,"A equipe identifica práticas, projetos ou experiências que já materializam elementos do Horizonte 3 no contexto atual. Essas iniciativas são chamadas de “sementes do futuro” porque revelam formas alternativas de organizar o sistema público.
 
 O objetivo deste passo é reconhecer que mudanças institucionais raramente começam do zero. Em muitos casos, soluções mais avançadas já estão sendo testadas em pequena escala por gestores públicos, organizações da sociedade civil ou comunidades locais.
 
@@ -4157,7 +4157,7 @@ Há iniciativas locais ou projetos piloto que mostram outras formas de organizar
 A facilitação também pode convidar participantes a compartilhar exemplos de práticas observadas em outras cidades, instituições ou políticas públicas.
 
 Esses relatos ajudam a revelar iniciativas que muitas vezes não aparecem em documentos formais, mas que já estão experimentando novos caminhos de atuação.",A equipe identifica e registra iniciativas que já antecipam elementos do futuro desejável no contexto atual. O resultado é um conjunto de experiências concretas que ajudam a visualizar caminhos possíveis de transformação do sistema investigado.
-390,M028,3Horizons Framework,Passo 5,Analisar conflitos entre manter o sistema e transformá-lo,"A equipe analisa as tensões entre o sistema atual e as possibilidades de mudança identificadas nos passos anteriores. O objetivo é compreender quais práticas precisam ser mantidas para garantir funcionamento do sistema e quais práticas limitam a capacidade de resolver o problema público.
+390,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 5,Analisar conflitos entre manter o sistema e transformá-lo,"A equipe analisa as tensões entre o sistema atual e as possibilidades de mudança identificadas nos passos anteriores. O objetivo é compreender quais práticas precisam ser mantidas para garantir funcionamento do sistema e quais práticas limitam a capacidade de resolver o problema público.
 
 Esse passo ajuda a tornar visível um dilema frequente em políticas públicas. Instituições precisam continuar entregando serviços enquanto enfrentam pressões por transformação.
 
@@ -4211,7 +4211,7 @@ práticas que dificultam adaptação do sistema a novos desafios
 Outra estratégia é convidar participantes a refletir sobre situações em que mudanças desejadas enfrentaram resistência institucional.
 
 Esses relatos ajudam a revelar onde surgem conflitos entre prioridades administrativas, incentivos organizacionais e necessidades da população.",A equipe identifica os principais conflitos entre continuidade e transformação no sistema investigado. O resultado é uma compreensão mais clara das tensões institucionais que influenciam a capacidade de mudança da política pública.
-391,M028,3Horizons Framework,Passo 6,Organizar evidências e percepções nos três horizontes,"A equipe organiza as evidências coletadas durante a escuta e a análise em um mapa estruturado dos três horizontes. O objetivo é transformar relatos dispersos, observações de campo e dados institucionais em uma estrutura analítica clara.
+391,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 6,Organizar evidências e percepções nos três horizontes,"A equipe organiza as evidências coletadas durante a escuta e a análise em um mapa estruturado dos três horizontes. O objetivo é transformar relatos dispersos, observações de campo e dados institucionais em uma estrutura analítica clara.
 
 Neste momento, as informações passam a ser classificadas segundo três dimensões:
 
@@ -4282,7 +4282,7 @@ Também pode ser útil perguntar ao grupo:
 Essa evidência descreve o sistema atual, uma tensão de mudança ou um caminho possível de futuro?
 
 Essa pergunta orienta a classificação sem exigir explicações excessivamente técnicas.","A equipe produz um mapa estruturado dos três horizontes que organiza evidências e percepções sobre o sistema investigado. Esse mapa transforma material disperso em uma visão analítica clara sobre funcionamento atual, tensões de transição e sinais de futuros possíveis."
-392,M028,3Horizons Framework,Passo 7,Traduzir o mapa dos horizontes em implicações para a auditoria,"A equipe interpreta o mapa dos três horizontes e identifica quais implicações ele traz para a análise da auditoria. O objetivo é transformar a leitura do sistema em insumos para compreender melhor o problema público investigado.
+392,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 7,Traduzir o mapa dos horizontes em implicações para a auditoria,"A equipe interpreta o mapa dos três horizontes e identifica quais implicações ele traz para a análise da auditoria. O objetivo é transformar a leitura do sistema em insumos para compreender melhor o problema público investigado.
 
 Neste momento, os horizontes deixam de ser apenas uma ferramenta de reflexão e passam a apoiar a formulação de achados, interpretações e possíveis recomendações.
 
@@ -4340,7 +4340,7 @@ Quais tensões ajudam a explicar os limites da política pública?
 Que caminhos de mudança aparecem com mais clareza?
 
 Esse momento ajuda a transformar a organização das evidências em interpretação compartilhada.","A equipe identifica implicações claras dos três horizontes para a análise da auditoria. O resultado é uma interpretação mais completa do problema público, conectando funcionamento atual do sistema, tensões de mudança e possibilidades de transformação institucional."
-393,M028,3Horizons Framework,Passo 8,Produzir síntese estratégica para decisão institucional,"A equipe transforma a análise dos três horizontes em uma síntese clara que possa orientar decisões institucionais. O objetivo é apresentar de forma compreensível o que o exercício revelou sobre o sistema investigado.
+393,M028,Método dos Três Horizontes (Three Horizons Framework),Passo 8,Produzir síntese estratégica para decisão institucional,"A equipe transforma a análise dos três horizontes em uma síntese clara que possa orientar decisões institucionais. O objetivo é apresentar de forma compreensível o que o exercício revelou sobre o sistema investigado.
 
 Essa síntese conecta três dimensões centrais da análise:
 
