@@ -87,7 +87,7 @@ export default function App() {
                 Arca Envolvimento Social •{' '}
                 {fichaTecnicaLoaded
                   ? `${metodos.length} métodos disponíveis`
-                  : 'carregue os CSVs para começar'}
+                  : ' '}
               </p>
             </div>
           </div>
