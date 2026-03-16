@@ -45,7 +45,7 @@ export const parseMetodo = (row: any): Metodo => {
     vantagens: row['Vantagens'] || '',
     riscos: row['Riscos e Limitações'] || '',
     nivelEsforco: row['Nível de Esforço'] || '',
-    equipeNecessaria: row['Habilidades Necessárias'] || '',
+    equipeNecessaria: row['Habiliades Necessárias'] || '',
     tamanhoGrupo: row['Tamanho do Grupo'] || '',
     entregaveis: row['Entregáveis'] || '',
     duracao: row['Duração'] || '',
